@@ -125,17 +125,11 @@ http://lista.serverpower.me:80/Julia/Julia/41094
 #EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",Itú TV⁻ˢᵈ⁻
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
 
-#EXTINF:-1 tvg-logo="http://www.megatv.com.br/u/og-mega.png" group-title="04- BRASIL",Mega TV⁽ᵃˡᵗ⁾
-http://144.217.7.203:25461/italia/italia/28
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR⁻ᴼᶠᶠ⁻
 http://
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="04- BRASIL",Rede Minas⁻ˢᵈ⁻
 https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/fotos/5/2/b/9/52b943caf2678a6a8cd401470782be46.jpg" group-title="04- BRASIL",Rede Pampa⁻ˢᵈ⁻
-https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?GrupoTopIptv
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/40474
@@ -164,32 +158,19 @@ http://lista.serverpower.me:80/William/William/37638
 #EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (4)
 http://lista.serverpower.me:80/Julia/Julia/37638
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Pioneira⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cidade-verde-hd_m.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻ Cidade Verde
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Piauí⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻¹⁰⁸⁰⁻ Piauí
 https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w1643787411.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT Pernambuco⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻⁷²⁰⁻ Pernambuco
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2099085578_b216000_sleng.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w965605121_b131000_sleng.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻
-https://origin.canaismax.com/mylive/sbtsd/video.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/tv-jornal.png" group-title="04- BRASIL",SBT TV Jornal PE⁻ˢᵈ⁻
+
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/tv-jornal.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻ TV Jornal PE
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT PE⁻ˢᵈ⁻
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻⁷²⁰⁻ PE
 http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/46861
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (2)
-http://lista.serverpower.me:80/smart1/smart1/46861
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (3)
-http://lista.serverpower.me:80/William/William/46861
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT (4)
-http://lista.serverpower.me:80/Julia/Julia/46861
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2Ym5vX3NjcmVlbl8wXzE1MDU1NzM5NzdfMDU1/screen-0.jpg?fakeurl=1&type=.jpg" group-title="04- BRASIL",TV BNO⁻ˢᵈ⁻
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?GrupoTopIptv
@@ -202,6 +183,9 @@ http://lista.serverpower.me:80/smart1/smart1/37026
 
 #EXTINF:-1 tvg-logo="https://www.redtal.tv/image/121x5d219/tvcultura.png" group-title="04- BRASIL",Tv Cultura (3)
 http://lista.serverpower.me:80/William/William/37026
+
+#EXTINF:-1 tvg-logo="https://www.redtal.tv/image/121x5d219/tvcultura.png" group-title="04- BRASIL",Tv Cultura (4)
+http://lista.serverpower.me:80/Julia/Julia/37026
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (1)
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37043
 
@@ -261,12 +245,6 @@ http://lista.serverpower.me:80/William/William/37069
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox BR (4)
 http://lista.serverpower.me:80/Julia/Julia/37069
-
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37081
-
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (2)
-http://lista.serverpower.me:80/smart1/smart1/37081
 
 #EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (3)
 http://lista.serverpower.me:80/William/William/37081
@@ -403,17 +381,8 @@ http://lista.serverpower.me:80/William/William/37052
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (4)
 http://lista.serverpower.me:80/Julia/Julia/37052
 
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/46835
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (2)
-http://lista.serverpower.me:80/smart1/smart1/46835
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (3)
-http://lista.serverpower.me:80/William/William/46835
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony (4)
-http://lista.serverpower.me:80/Julia/Julia/46835
+#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37037
@@ -654,17 +623,8 @@ http://lista.serverpower.me:80/William/William/37034
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="31- VARIEDADES BRASIL",Fashion TV (4)
 http://lista.serverpower.me:80/Julia/Julia/37034
 
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/46841
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts (2)
-http://lista.serverpower.me:80/smart1/smart1/46841
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts (3)
-http://lista.serverpower.me:80/William/William/46841
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts (4)
-http://lista.serverpower.me:80/Julia/Julia/46841
+#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts⁻ᴼᶠᶠ⁻
+http://
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (1)
 http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37126
