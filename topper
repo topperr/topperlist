@@ -1,1181 +1,562 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37096
 
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (2)
-http://lista.serverpower.me:80/smart1/smart1/37096
-
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (3)
-http://lista.serverpower.me:80/William/William/37096
-
-#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/band-logo-png-6.png" group-title="04- BRASIL",Band (4)
-http://lista.serverpower.me:80/Julia/Julia/37096
-
-#EXTINF:0 tvg-logo="https://famosidades.com.br/wp-content/uploads/2018/09/Big-Brother-Brasil.png" group-title="04- BRASIL",BBB 20 (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/50481
-
-#EXTINF:0 tvg-logo="https://famosidades.com.br/wp-content/uploads/2018/09/Big-Brother-Brasil.png" group-title="04- BRASIL",BBB 20 (2)
-http://lista.serverpower.me:80/smart1/smart1/50481
-
-#EXTINF:0 tvg-logo="https://famosidades.com.br/wp-content/uploads/2018/09/Big-Brother-Brasil.png" group-title="04- BRASIL",BBB 20 (3)
-http://lista.serverpower.me:80/William/William/50481
-
-#EXTINF:0 tvg-logo="https://famosidades.com.br/wp-content/uploads/2018/09/Big-Brother-Brasil.png" group-title="04- BRASIL",BBB 20 (4)
-http://lista.serverpower.me:80/Julia/Julia/50481
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37105
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (2)
-http://lista.serverpower.me:80/smart1/smart1/37105
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (3)
-http://lista.serverpower.me:80/William/William/37105
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="04- BRASIL",Canal Brasil (4)
-http://lista.serverpower.me:80/Julia/Julia/37105
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="04- BRASIL",Gazeta⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/48371
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (2)
-http://lista.serverpower.me:80/smart1/smart1/48371
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (3)
-http://lista.serverpower.me:80/William/William/48371
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-bahia-hd_m.png" group-title="04- BRASIL",Globo Bahia (4)
-http://lista.serverpower.me:80/Julia/Julia/48371
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/40458
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (2)
-http://lista.serverpower.me:80/smart1/smart1/40458
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (3)
-http://lista.serverpower.me:80/William/William/40458
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo Brasilia (4)
-http://lista.serverpower.me:80/Julia/Julia/40458
-
-#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/40461
-
-#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (2)
-http://lista.serverpower.me:80/smart1/smart1/40461
-
-#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (3)
-http://lista.serverpower.me:80/William/William/40461
-
-#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV R. Preto (4)
-http://lista.serverpower.me:80/Julia/Julia/40461
-
-#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/40462
-
-#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (2)
-http://lista.serverpower.me:80/smart1/smart1/40462
-
-#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (3)
-http://lista.serverpower.me:80/William/William/40462
-
-#EXTINF:-1 tvg-logo="https://apicesistemasdeenergia.com.br/wp-content/uploads/2016/02/Eptv.jpg" group-title="04- BRASIL",Globo EPTV Sao Carlos (4)
-http://lista.serverpower.me:80/Julia/Julia/40462
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/40465
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (2)
-http://lista.serverpower.me:80/smart1/smart1/40465
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (3)
-http://lista.serverpower.me:80/William/William/40465
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="04- BRASIL",Globo Nordeste (4)
-http://lista.serverpower.me:80/Julia/Julia/40465
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/27537
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (2)
-http://lista.serverpower.me:80/smart1/smart1/27537
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (3)
-http://lista.serverpower.me:80/William/William/27537
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo RJ (4)
-http://lista.serverpower.me:80/Julia/Julia/27537
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/41094
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (2)
-http://lista.serverpower.me:80/smart1/smart1/41094
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (3)
-http://lista.serverpower.me:80/William/William/41094
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="04- BRASIL",Globo SP (4)
-http://lista.serverpower.me:80/Julia/Julia/41094
-
-#EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_155_1556042983_thumb.png" group-title="04- BRASIL",Itú TV⁻ˢᵈ⁻
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/if82162.png" group-title="04- BRASIL",NBR⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s128243q.png" group-title="04- BRASIL",Rede Minas⁻ˢᵈ⁻
-https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/40474
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (2)
-http://lista.serverpower.me:80/smart1/smart1/40474
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (3)
-http://lista.serverpower.me:80/William/William/40474
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="04- BRASIL",Record (4)
-http://lista.serverpower.me:80/Julia/Julia/40474
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV⁻ˢᵈ⁻
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37638
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (2)
-http://lista.serverpower.me:80/smart1/smart1/37638
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (3)
-http://lista.serverpower.me:80/William/William/37638
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="04- BRASIL",Rede TV (4)
-http://lista.serverpower.me:80/Julia/Julia/37638
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-cidade-verde-hd_m.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻ Cidade Verde
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻¹⁰⁸⁰⁻ Piauí
-https://59e4b6c1beddc.streamlock.net/pioneira-tv3/pioneira-tv3/chunklist_w1643787411.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻⁷²⁰⁻ Pernambuco
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2099085578_b216000_sleng.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w965605121_b131000_sleng.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/11/tv-jornal.png" group-title="04- BRASIL",SBT⁻ˢᵈ⁻ TV Jornal PE
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?GrupoTopIptv
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="04- BRASIL",SBT⁻⁷²⁰⁻ PE
-http://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w322427533.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLnR2Ym5vX3NjcmVlbl8wXzE1MDU1NzM5NzdfMDU1/screen-0.jpg?fakeurl=1&type=.jpg" group-title="04- BRASIL",TV BNO⁻ˢᵈ⁻
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8?GrupoTopIptv
-
-#EXTINF:-1 tvg-logo="https://www.redtal.tv/image/121x5d219/tvcultura.png" group-title="04- BRASIL",Tv Cultura (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37026
-
-#EXTINF:-1 tvg-logo="https://www.redtal.tv/image/121x5d219/tvcultura.png" group-title="04- BRASIL",Tv Cultura (2)
-http://lista.serverpower.me:80/smart1/smart1/37026
-
-#EXTINF:-1 tvg-logo="https://www.redtal.tv/image/121x5d219/tvcultura.png" group-title="04- BRASIL",Tv Cultura (3)
-http://lista.serverpower.me:80/William/William/37026
-
-#EXTINF:-1 tvg-logo="https://www.redtal.tv/image/121x5d219/tvcultura.png" group-title="04- BRASIL",Tv Cultura (4)
-http://lista.serverpower.me:80/Julia/Julia/37026
-#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37043
-
-#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (2)
-http://lista.serverpower.me:80/smart1/smart1/37043
-
-#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (3)
-http://lista.serverpower.me:80/William/William/37043
-
-#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/AMC.png" group-title="29- PREMIUM BRASIL",Amc (4)
-http://lista.serverpower.me:80/Julia/Julia/37043
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37077
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (2)
-http://lista.serverpower.me:80/smart1/smart1/37077
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (3)
-http://lista.serverpower.me:80/William/William/37077
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/axn.png" group-title="29- PREMIUM BRASIL",Axn (4)
-http://lista.serverpower.me:80/Julia/Julia/37077
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37575
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (2)
-http://lista.serverpower.me:80/smart1/smart1/37575
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (3)
-http://lista.serverpower.me:80/William/William/37575
-
-#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/cine/16.png" group-title="29- PREMIUM BRASIL",Cinemax (4)
-http://lista.serverpower.me:80/Julia/Julia/37575
-
-#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37049
-
-#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (2)
-http://lista.serverpower.me:80/smart1/smart1/37049
-
-#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (3)
-http://lista.serverpower.me:80/William/William/37049
-
-#EXTINF:-1 tvg-logo="http://new.lamac.org/system/channels/logos/000/000/044/original/pic_comedycentral.png?1522177270" group-title="29- PREMIUM BRASIL",Comedy Central (4)
-http://lista.serverpower.me:80/Julia/Julia/37049
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37069
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37069
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox BR (3)
-http://lista.serverpower.me:80/William/William/37069
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Al6Y2.png" group-title="29- PREMIUM BRASIL",Fox BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37069
-
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (3)
-http://lista.serverpower.me:80/William/William/37081
-
-#EXTINF:-1 tvg-logo="http://neurads.com/wp-content/uploads/foxlife-2.png" group-title="29- PREMIUM BRASIL",Fox Life (4)
-http://lista.serverpower.me:80/Julia/Julia/37081
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37071
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (2)
-http://lista.serverpower.me:80/smart1/smart1/37071
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (3)
-http://lista.serverpower.me:80/William/William/37071
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/FOXPremium1.png/revision/latest?cb=20170324170019" group-title="29- PREMIUM BRASIL",Fox Premium 1 (4)
-http://lista.serverpower.me:80/Julia/Julia/37071
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37070
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (2)
-http://lista.serverpower.me:80/smart1/smart1/37070
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (3)
-http://lista.serverpower.me:80/William/William/37070
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/28/FOXPremium2.png/revision/latest?cb=20170324170127" group-title="29- PREMIUM BRASIL",Fox Premium 2 (4)
-http://lista.serverpower.me:80/Julia/Julia/37070
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37080
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (2)
-http://lista.serverpower.me:80/smart1/smart1/37080
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (3)
-http://lista.serverpower.me:80/William/William/37080
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-JBwoh8YDdKY/TyztsSnAnTI/AAAAAAAAAMc/UHfWADlmytY/s1600/fx_hd.png" group-title="29- PREMIUM BRASIL",Fx (4)
-http://lista.serverpower.me:80/Julia/Julia/37080
-
-#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37119
-
-#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37119
-
-#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo BR (3)
-http://lista.serverpower.me:80/William/William/37119
-
-#EXTINF:-1 tvg-logo="https://vectors.pro/wp-content/uploads/2017/10/hbo-logo-vector.png" group-title="29- PREMIUM BRASIL",Hbo BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37119
-
-#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37617
-
-#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (2)
-http://lista.serverpower.me:80/smart1/smart1/37617
-
-#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (3)
-http://lista.serverpower.me:80/William/William/37617
-
-#EXTINF:-1 tvg-logo="http://aux4.iconspalace.com/uploads/797638582344877408.png" group-title="29- PREMIUM BRASIL",Hbo 2 (4)
-http://lista.serverpower.me:80/Julia/Julia/37617
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37118
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (2)
-http://lista.serverpower.me:80/smart1/smart1/37118
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (3)
-http://lista.serverpower.me:80/William/William/37118
-
-#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/hbo-family-logo-320x320-745790760.png" group-title="29- PREMIUM BRASIL",Hbo Family (4)
-http://lista.serverpower.me:80/Julia/Julia/37118
-
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37170
-
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (2)
-http://lista.serverpower.me:80/smart1/smart1/37170
-
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (3)
-http://lista.serverpower.me:80/William/William/37170
-
-#EXTINF:-1 tvg-logo="http://contenidos.cablevision.com.mx/guia_programacion/channels/634.png" group-title="29- PREMIUM BRASIL",Hbo Plus (4)
-http://lista.serverpower.me:80/Julia/Julia/37170
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37121
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (2)
-http://lista.serverpower.me:80/smart1/smart1/37121
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (3)
-http://lista.serverpower.me:80/William/William/37121
-
-#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOSignature.mx.png" group-title="29- PREMIUM BRASIL",Hbo Signature (4)
-http://lista.serverpower.me:80/Julia/Julia/37121
-
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-I_y7DS7ckN4/U2Au0ohgyEI/AAAAAAAACRI/UUmABBsgA2A/s1600/Max_HD-fullcaleta.biz.png" group-title="29- PREMIUM BRASIL",Max BR⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-prime_m.png" group-title="29- PREMIUM BRASIL",Max Prime⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/max-up.png" group-title="29- PREMIUM BRASIL",Max Up⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37068
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (2)
-http://lista.serverpower.me:80/smart1/smart1/37068
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (3)
-http://lista.serverpower.me:80/William/William/37068
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/megapix-logo-png-7.png" group-title="29- PREMIUM BRASIL",Megapix (4)
-http://lista.serverpower.me:80/Julia/Julia/37068
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37052
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (2)
-http://lista.serverpower.me:80/smart1/smart1/37052
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (3)
-http://lista.serverpower.me:80/William/William/37052
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1153200946740174848/X4RlVPAc_400x400.png" group-title="29- PREMIUM BRASIL",Paramount (4)
-http://lista.serverpower.me:80/Julia/Julia/37052
-
-#EXTINF:-1 tvg-logo="https://www.totalplay.com.mx/images/logos/canales/entretenimiento/canal-sony.png" group-title="29- PREMIUM BRASIL",Sony⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37037
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (2)
-http://lista.serverpower.me:80/smart1/smart1/37037
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (3)
-http://lista.serverpower.me:80/William/William/37037
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="29- PREMIUM BRASIL",Space (4)
-http://lista.serverpower.me:80/Julia/Julia/37037
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37019
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (2)
-http://lista.serverpower.me:80/smart1/smart1/37019
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (3)
-http://lista.serverpower.me:80/William/William/37019
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/04/9e/d4/049ed43cd66568e2061b7bb44a00a925.png" group-title="29- PREMIUM BRASIL",Studio Universal (4)
-http://lista.serverpower.me:80/Julia/Julia/37019
-
-#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37027
-
-#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (2)
-http://lista.serverpower.me:80/smart1/smart1/37027
-
-#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (3)
-http://lista.serverpower.me:80/William/William/37027
-
-#EXTINF:-1 tvg-logo="https://www.programacion.tv/images/syfy.png" group-title="29- PREMIUM BRASIL",Syfy (4)
-http://lista.serverpower.me:80/Julia/Julia/37027
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37203
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (2)
-http://lista.serverpower.me:80/smart1/smart1/37203
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (3)
-http://lista.serverpower.me:80/William/William/37203
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/011/original/pic_tbs.png?1522176341" group-title="29- PREMIUM BRASIL",Tbs (4)
-http://lista.serverpower.me:80/Julia/Julia/37203
-
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37569
-
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (2)
-http://lista.serverpower.me:80/smart1/smart1/37569
-
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (3)
-http://lista.serverpower.me:80/William/William/37569
-
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/tcm.png" group-title="29- PREMIUM BRASIL",Tcm (4)
-http://lista.serverpower.me:80/Julia/Julia/37569
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Action (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37060
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Action (2)
-http://lista.serverpower.me:80/smart1/smart1/37060
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Action (3)
-http://lista.serverpower.me:80/William/William/37060
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Action (4)
-http://lista.serverpower.me:80/Julia/Julia/37060
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37067
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (2)
-http://lista.serverpower.me:80/smart1/smart1/37067
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (3)
-http://lista.serverpower.me:80/William/William/37067
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Cult (4)
-http://lista.serverpower.me:80/Julia/Julia/37067
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="29- PREMIUM BRASIL",Telecine Fun (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37082
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="29- PREMIUM BRASIL",Telecine Fun (2)
-http://lista.serverpower.me:80/smart1/smart1/37082
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="29- PREMIUM BRASIL",Telecine Fun (3)
-http://lista.serverpower.me:80/William/William/37082
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="29- PREMIUM BRASIL",Telecine Fun (4)
-http://lista.serverpower.me:80/Julia/Julia/37082
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37064
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (2)
-http://lista.serverpower.me:80/smart1/smart1/37064
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (3)
-http://lista.serverpower.me:80/William/William/37064
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-hd_m.png" group-title="29- PREMIUM BRASIL",Telecine Pipoca (4)
-http://lista.serverpower.me:80/Julia/Julia/37064
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Premium (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37116
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Premium (2)
-http://lista.serverpower.me:80/smart1/smart1/37116
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Premium (3)
-http://lista.serverpower.me:80/William/William/37116
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="29- PREMIUM BRASIL",Telecine Premium (4)
-http://lista.serverpower.me:80/Julia/Julia/37116
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png" group-title="29- PREMIUM BRASIL",Telecine Touch (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37063
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png" group-title="29- PREMIUM BRASIL",Telecine Touch (2)
-http://lista.serverpower.me:80/smart1/smart1/37063
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png" group-title="29- PREMIUM BRASIL",Telecine Touch (3)
-http://lista.serverpower.me:80/William/William/37063
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png" group-title="29- PREMIUM BRASIL",Telecine Touch (4)
-http://lista.serverpower.me:80/Julia/Julia/37063
-
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37038
-
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37038
-
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt BR (3)
-http://lista.serverpower.me:80/William/William/37038
-
-#EXTINF:-1 tvg-logo="http://mareatvcable.com/wp-content/uploads/2017/12/44-tntlogo.png" group-title="29- PREMIUM BRASIL",Tnt BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37038
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37039
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (2)
-http://lista.serverpower.me:80/smart1/smart1/37039
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (3)
-http://lista.serverpower.me:80/William/William/37039
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tnt-series-logo-01.png" group-title="29- PREMIUM BRASIL",Tnt Series (4)
-http://lista.serverpower.me:80/Julia/Julia/37039
-
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37085
-
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (2)
-http://lista.serverpower.me:80/smart1/smart1/37085
-
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (3)
-http://lista.serverpower.me:80/William/William/37085
-
-#EXTINF:-1 tvg-logo="http://www.temporadafinal.com/gallery/5400ebfa0cc26universal-channel-.png" group-title="29- PREMIUM BRASIL",Universal Channel (4)
-http://lista.serverpower.me:80/Julia/Julia/37085
-
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37078
-
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (2)
-http://lista.serverpower.me:80/smart1/smart1/37078
-
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (3)
-http://lista.serverpower.me:80/William/William/37078
-
-#EXTINF:-1 tvg-logo="https://logostvargentina.files.wordpress.com/2008/08/d3e81-wb-hd-2011.png" group-title="29- PREMIUM BRASIL",Warner Channel (4)
-http://lista.serverpower.me:80/Julia/Julia/37078
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="31- VARIEDADES BRASIL",Arte 1 (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37075
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="31- VARIEDADES BRASIL",Arte 1 (2)
-http://lista.serverpower.me:80/smart1/smart1/37075
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="31- VARIEDADES BRASIL",Arte 1 (3)
-http://lista.serverpower.me:80/William/William/37075
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_arte-1-hd_m.png" group-title="31- VARIEDADES BRASIL",Arte 1 (4)
-http://lista.serverpower.me:80/Julia/Julia/37075
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37101
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (2)
-http://lista.serverpower.me:80/smart1/smart1/37101
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (3)
-http://lista.serverpower.me:80/William/William/37101
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo.png" group-title="31- VARIEDADES BRASIL",Bis (4)
-http://lista.serverpower.me:80/Julia/Julia/37101
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37059
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (2)
-http://lista.serverpower.me:80/smart1/smart1/37059
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (3)
-http://lista.serverpower.me:80/William/William/37059
-
-#EXTINF:-1 tvg-logo="https://imagem.natelinha.uol.com.br/grande/canalcurta.jpg" group-title="31- VARIEDADES BRASIL",Curta! (4)
-http://lista.serverpower.me:80/Julia/Julia/37059
-
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37107
-
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (2)
-http://lista.serverpower.me:80/smart1/smart1/37107
-
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (3)
-http://lista.serverpower.me:80/William/William/37107
-
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_e-490x490.png" group-title="31- VARIEDADES BRASIL",E! (4)
-http://lista.serverpower.me:80/Julia/Julia/37107
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="31- VARIEDADES BRASIL",Fashion TV (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37034
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="31- VARIEDADES BRASIL",Fashion TV (2)
-http://lista.serverpower.me:80/smart1/smart1/37034
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="31- VARIEDADES BRASIL",Fashion TV (3)
-http://lista.serverpower.me:80/William/William/37034
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/fashion-tv-logo-png-3.png" group-title="31- VARIEDADES BRASIL",Fashion TV (4)
-http://lista.serverpower.me:80/Julia/Julia/37034
-
-#EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="31- VARIEDADES BRASIL",Film & Arts⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37126
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (2)
-http://lista.serverpower.me:80/smart1/smart1/37126
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (3)
-http://lista.serverpower.me:80/William/William/37126
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="31- VARIEDADES BRASIL",Fish TV (4)
-http://lista.serverpower.me:80/Julia/Julia/37126
-
-#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37115
-
-#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (2)
-http://lista.serverpower.me:80/smart1/smart1/37115
-
-#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (3)
-http://lista.serverpower.me:80/William/William/37115
-
-#EXTINF:-1 tvg-logo="https://bestofsno.com/wp-content/uploads/2019/03/3.18-culinary.png" group-title="31- VARIEDADES BRASIL",Food Network (4)
-http://lista.serverpower.me:80/Julia/Julia/37115
-
-#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37094
-
-#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (2)
-http://lista.serverpower.me:80/smart1/smart1/37094
-
-#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (3)
-http://lista.serverpower.me:80/William/William/37094
-
-#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-8-canal-futura.png" group-title="31- VARIEDADES BRASIL",Futura (4)
-http://lista.serverpower.me:80/Julia/Julia/37094
-
-#EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37093
-
-#EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (2)
-http://lista.serverpower.me:80/smart1/smart1/37093
-
-#EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (3)
-http://lista.serverpower.me:80/William/William/37093
-
-#EXTINF:-1 tvg-logo="http://scabora.com.br/wp-content/blogs.dir/2/files/2014/06/GNT2.png" group-title="31- VARIEDADES BRASIL",Gnt (4)
-http://lista.serverpower.me:80/Julia/Julia/37093
-
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37568
-
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (2)
-http://lista.serverpower.me:80/smart1/smart1/37568
-
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (3)
-http://lista.serverpower.me:80/William/William/37568
-
-#EXTINF:-1 tvg-logo="https://assets.corusent.com/wp-content/uploads/2017/06/logo_tv_lifetime_june2017-500x250.png" group-title="31- VARIEDADES BRASIL",Lifetime (4)
-http://lista.serverpower.me:80/Julia/Julia/37568
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Iu3QYBB.png" group-title="31- VARIEDADES BRASIL",Like⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37677
-
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (2)
-http://lista.serverpower.me:80/smart1/smart1/37677
-
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (3)
-http://lista.serverpower.me:80/William/William/37677
-
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/uiEeBZJKeOneVk97k2Oo00zutxI=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/f1/9f/b246cd313d3bbf3d94cfc654a161.png" group-title="31- VARIEDADES BRASIL",Mais Globosat (4)
-http://lista.serverpower.me:80/Julia/Julia/37677
-
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/303-3036839_mtv-music-television-logo-vector-mtv-logo-vector.png" group-title="31- VARIEDADES BRASIL",Mtv BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37050
-
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/303-3036839_mtv-music-television-logo-vector-mtv-logo-vector.png" group-title="31- VARIEDADES BRASIL",Mtv BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37050
-
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/303-3036839_mtv-music-television-logo-vector-mtv-logo-vector.png" group-title="31- VARIEDADES BRASIL",Mtv BR (3)
-http://lista.serverpower.me:80/William/William/37050
-
-#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/303-3036839_mtv-music-television-logo-vector-mtv-logo-vector.png" group-title="31- VARIEDADES BRASIL",Mtv BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37050
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="31- VARIEDADES BRASIL",Mtv Live (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37032
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="31- VARIEDADES BRASIL",Mtv Live (2)
-http://lista.serverpower.me:80/smart1/smart1/37032
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="31- VARIEDADES BRASIL",Mtv Live (3)
-http://lista.serverpower.me:80/William/William/37032
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/mtv-live-logo-png-5.png" group-title="31- VARIEDADES BRASIL",Mtv Live (4)
-http://lista.serverpower.me:80/Julia/Julia/37032
-
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37092
-
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (2)
-http://lista.serverpower.me:80/smart1/smart1/37092
-
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (3)
-http://lista.serverpower.me:80/William/William/37092
-
-#EXTINF:-1 tvg-logo="http://s2.glbimg.com/aYKWYWXJqKq4o3_tByMbh_jRpt8=/0x0:234x146/234x146/s.glbimg.com/pv/an/f/original/2015/02/24/multishow-234x146.png" group-title="31- VARIEDADES BRASIL",Multishow (4)
-http://lista.serverpower.me:80/Julia/Julia/37092
-
-#EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2018/07/music-e1532525013976.png" group-title="31- VARIEDADES BRASIL",Music Box Brasil (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37181
-
-#EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2018/07/music-e1532525013976.png" group-title="31- VARIEDADES BRASIL",Music Box Brasil (2)
-http://lista.serverpower.me:80/smart1/smart1/37181
-
-#EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2018/07/music-e1532525013976.png" group-title="31- VARIEDADES BRASIL",Music Box Brasil (3)
-http://lista.serverpower.me:80/William/William/37181
-
-#EXTINF:-1 tvg-logo="https://www.boxbrazil.tv.br/wp-content/uploads/2018/07/music-e1532525013976.png" group-title="31- VARIEDADES BRASIL",Music Box Brasil (4)
-http://lista.serverpower.me:80/Julia/Julia/37181
-
-#EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37098
-
-#EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (2)
-http://lista.serverpower.me:80/smart1/smart1/37098
-
-#EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (3)
-http://lista.serverpower.me:80/William/William/37098
-
-#EXTINF:-1 tvg-logo="https://www.skidun.com/br/images/Logo-Canal-OFF.png" group-title="31- VARIEDADES BRASIL",Off (4)
-http://lista.serverpower.me:80/Julia/Julia/37098
-
-#EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37054
-
-#EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (2)
-http://lista.serverpower.me:80/smart1/smart1/37054
-
-#EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (3)
-http://lista.serverpower.me:80/William/William/37054
-
-#EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="31- VARIEDADES BRASIL",Prime Box (4)
-http://lista.serverpower.me:80/Julia/Julia/37054
-
-#EXTINF:-1 tvg-logo="https://tvnotiblog.com/wp-content/uploads/2012/04/trutv.png" group-title="31- VARIEDADES BRASIL",Trutv⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37084
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (2)
-http://lista.serverpower.me:80/smart1/smart1/37084
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (3)
-http://lista.serverpower.me:80/William/William/37084
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/canal-viva-png-8.png" group-title="31- VARIEDADES BRASIL",Viva (4)
-http://lista.serverpower.me:80/Julia/Julia/37084
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37021
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (2)
-http://lista.serverpower.me:80/smart1/smart1/37021
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (3)
-http://lista.serverpower.me:80/William/William/37021
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7FamS9P.png" group-title="31- VARIEDADES BRASIL",Woohoo (4)
-http://lista.serverpower.me:80/Julia/Julia/37021
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="33- INFANTIL BRASIL",Baby TV (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37598
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="33- INFANTIL BRASIL",Baby TV (2)
-http://lista.serverpower.me:80/smart1/smart1/37598
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="33- INFANTIL BRASIL",Baby TV (3)
-http://lista.serverpower.me:80/William/William/37598
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_baby-tv_m.png" group-title="33- INFANTIL BRASIL",Baby TV (4)
-http://lista.serverpower.me:80/Julia/Julia/37598
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37056
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (2)
-http://lista.serverpower.me:80/smart1/smart1/37056
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (3)
-http://lista.serverpower.me:80/William/William/37056
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_boomerang-cartoon_m.png" group-title="33- INFANTIL BRASIL",Boomerang (4)
-http://lista.serverpower.me:80/Julia/Julia/37056
-
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37041
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (2)
-http://lista.serverpower.me:80/smart1/smart1/37041
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (3)
-http://lista.serverpower.me:80/William/William/37041
-#EXTINF:-1 tvg-logo="https://orig00.deviantart.net/1354/f/2016/129/2/d/untitled_drawing_by_jared33-da1wdty.png" group-title="33- INFANTIL BRASIL",Cartoon Network (4)
-http://lista.serverpower.me:80/Julia/Julia/37041
-
-#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37102
-#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (2)
-http://lista.serverpower.me:80/smart1/smart1/37102
-#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (3)
-http://lista.serverpower.me:80/William/William/37102
-#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20180216/e15145d23f1a35eda5537e61932ea069.jpg" group-title="33- INFANTIL BRASIL",Discovery Kids (4)
-http://lista.serverpower.me:80/Julia/Julia/37102
-
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37047
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (2)
-http://lista.serverpower.me:80/smart1/smart1/37047
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (3)
-http://lista.serverpower.me:80/William/William/37047
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="33- INFANTIL BRASIL",Disney Channel (4)
-http://lista.serverpower.me:80/Julia/Julia/37047
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37044
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (2)
-http://lista.serverpower.me:80/smart1/smart1/37044
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (3)
-http://lista.serverpower.me:80/William/William/37044
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/disney-junior-logo-01.png" group-title="33- INFANTIL BRASIL",Disney Junior (4)
-http://lista.serverpower.me:80/Julia/Julia/37044
-
-#EXTINF:-1 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2015/10/Disney_XD_-_2015.svg_.png" group-title="33- INFANTIL BRASIL",Disney XD⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37099
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37099
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob BR (3)
-http://lista.serverpower.me:80/William/William/37099
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="33- INFANTIL BRASIL",Gloob BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37099
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="33- INFANTIL BRASIL",Gloobinho⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37091
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (2)
-http://lista.serverpower.me:80/smart1/smart1/37091
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (3)
-http://lista.serverpower.me:80/William/William/37091
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/natgeo-kids-logo-01.png" group-title="33- INFANTIL BRASIL",Nat Geo Kids (4)
-http://lista.serverpower.me:80/Julia/Julia/37091
-
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37058
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37058
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick BR (3)
-http://lista.serverpower.me:80/William/William/37058
-#EXTINF:-1 tvg-logo="https://www.e-channel.ec/blog/wp-content/uploads/2015/09/NICK.png" group-title="33- INFANTIL BRASIL",Nick BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37058
-
-#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37066
-#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (2)
-http://lista.serverpower.me:80/smart1/smart1/37066
-#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (3)
-http://lista.serverpower.me:80/William/William/37066
-#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="33- INFANTIL BRASIL",Nick Junior (4)
-http://lista.serverpower.me:80/Julia/Julia/37066
-
-#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2018/04/TV_R%C3%A1-Tim-Bum.png" group-title="33- INFANTIL BRASIL",Ra Tim Bum⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37565
-#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (2)
-http://lista.serverpower.me:80/smart1/smart1/37565
-#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (3)
-http://lista.serverpower.me:80/William/William/37565
-#EXTINF:-1 tvg-logo="https://t3.kn3.net/taringa/A/7/E/6/A/C/RevolucionCN/83A.png" group-title="33- INFANTIL BRASIL",Tooncast (4)
-http://lista.serverpower.me:80/Julia/Julia/37565
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37136
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (2)
-http://lista.serverpower.me:80/smart1/smart1/37136
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (3)
-http://lista.serverpower.me:80/William/William/37136
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ibNTVbR.png" group-title="37- NOTICIAS BRASIL",Band News (4)
-http://lista.serverpower.me:80/Julia/Julia/37136
-
-#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37062
-#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (2)
-http://lista.serverpower.me:80/smart1/smart1/37062
-#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (3)
-http://lista.serverpower.me:80/William/William/37062
-#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/uploads/tx_lfrogmom/media/7019-1071_import.png" group-title="37- NOTICIAS BRASIL",Globo News (4)
-http://lista.serverpower.me:80/Julia/Julia/37062
-
-#EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/record-news.png" group-title="37- NOTICIAS BRASIL",Record News⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/abJuI1D.jpg" group-title="37- NOTICIAS BRASIL",Tvideo News (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/40803
-#EXTINF:-1 tvg-logo="https://i.imgur.com/abJuI1D.jpg" group-title="37- NOTICIAS BRASIL",Tvideo News (2)
-http://lista.serverpower.me:80/smart1/smart1/40803
-#EXTINF:-1 tvg-logo="https://i.imgur.com/abJuI1D.jpg" group-title="37- NOTICIAS BRASIL",Tvideo News (3)
-http://lista.serverpower.me:80/William/William/40803
-#EXTINF:-1 tvg-logo="https://i.imgur.com/abJuI1D.jpg" group-title="37- NOTICIAS BRASIL",Tvideo News (4)
-http://lista.serverpower.me:80/Julia/Julia/40803
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37029
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (2)
-http://lista.serverpower.me:80/smart1/smart1/37029
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (3)
-http://lista.serverpower.me:80/William/William/37029
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/020/original/pic_a_e.png?1522180692" group-title="39- DOCUMENTAIS BRASIL",A&E (4)
-http://lista.serverpower.me:80/Julia/Julia/37029
-
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37076
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (2)
-http://lista.serverpower.me:80/smart1/smart1/37076
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (3)
-http://lista.serverpower.me:80/William/William/37076
-#EXTINF:-1 tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="39- DOCUMENTAIS BRASIL",Animal Planet (4)
-http://lista.serverpower.me:80/Julia/Julia/37076
-
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37024
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (2)
-http://lista.serverpower.me:80/smart1/smart1/37024
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (3)
-http://lista.serverpower.me:80/William/William/37024
-#EXTINF:-1 tvg-logo="https://hcil.umd.edu/wp-content/uploads/2015/12/Discovery-Channel-logo.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Channel (4)
-http://lista.serverpower.me:80/Julia/Julia/37024
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-civilization_m.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Civilization⁻ᴼᶠᶠ⁻
-http://
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37117
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (2)
-http://lista.serverpower.me:80/smart1/smart1/37117
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (3)
-http://lista.serverpower.me:80/William/William/37117
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="39- DOCUMENTAIS BRASIL",Discovery H&H (4)
-http://lista.serverpower.me:80/Julia/Julia/37117
-
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37035
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (2)
-http://lista.serverpower.me:80/smart1/smart1/37035
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (3)
-http://lista.serverpower.me:80/William/William/37035
-#EXTINF:-1 tvg-logo="http://www.lamac.org/system/channels/logos/000/000/027/original/pic_investigactiondisc.png?1522177058" group-title="39- DOCUMENTAIS BRASIL",Discovery ID (4)
-http://lista.serverpower.me:80/Julia/Julia/37035
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37020
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (2)
-http://lista.serverpower.me:80/smart1/smart1/37020
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (3)
-http://lista.serverpower.me:80/William/William/37020
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logos2/images/f/f2/Discovery_Science_logo.png/revision/latest?cb=20180514182753" group-title="39- DOCUMENTAIS BRASIL",Discovery Science (4)
-http://lista.serverpower.me:80/Julia/Julia/37020
-
-#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37042
-#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (2)
-http://lista.serverpower.me:80/smart1/smart1/37042
-#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (3)
-http://lista.serverpower.me:80/William/William/37042
-#EXTINF:-1 tvg-logo="https://www.cotes.net.bo/appCotes/public/appWeb_/assets/images/canales/17.2.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Theater (4)
-http://lista.serverpower.me:80/Julia/Julia/37042
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37051
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (2)
-http://lista.serverpower.me:80/smart1/smart1/37051
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (3)
-http://lista.serverpower.me:80/William/William/37051
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/discovery-turbo-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Discovery Turbo (4)
-http://lista.serverpower.me:80/Julia/Julia/37051
-
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37036
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (2)
-http://lista.serverpower.me:80/smart1/smart1/37036
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (3)
-http://lista.serverpower.me:80/William/William/37036
-#EXTINF:-1 tvg-logo="https://www.skytvporassinatura.com.br/wp-content/uploads/2018/01/canal-discovery-world-hd-sky-1.png" group-title="39- DOCUMENTAIS BRASIL",Discovery World (4)
-http://lista.serverpower.me:80/Julia/Julia/37036
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37072
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37072
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History BR (3)
-http://lista.serverpower.me:80/William/William/37072
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/35/13/17/35131727c2635cec3274d9bd93868db2.png" group-title="39- DOCUMENTAIS BRASIL",History BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37072
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37031
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (2)
-http://lista.serverpower.me:80/smart1/smart1/37031
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (3)
-http://lista.serverpower.me:80/William/William/37031
-#EXTINF:-1 tvg-logo="https://i0.wp.com/cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="39- DOCUMENTAIS BRASIL",History 2 (4)
-http://lista.serverpower.me:80/Julia/Julia/37031
-
-#EXTINF:-1 tvg-logo="https://planeta.com/wp-content/uploads/2018/02/hgtvlogo-1024x768.jpg" group-title="39- DOCUMENTAIS BRASIL",Hgtv (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37017
-#EXTINF:-1 tvg-logo="https://planeta.com/wp-content/uploads/2018/02/hgtvlogo-1024x768.jpg" group-title="39- DOCUMENTAIS BRASIL",Hgtv (2)
-http://lista.serverpower.me:80/smart1/smart1/37017
-#EXTINF:-1 tvg-logo="https://planeta.com/wp-content/uploads/2018/02/hgtvlogo-1024x768.jpg" group-title="39- DOCUMENTAIS BRASIL",Hgtv (3)
-http://lista.serverpower.me:80/William/William/37017
-#EXTINF:-1 tvg-logo="https://planeta.com/wp-content/uploads/2018/02/hgtvlogo-1024x768.jpg" group-title="39- DOCUMENTAIS BRASIL",Hgtv (4)
-http://lista.serverpower.me:80/Julia/Julia/37017
-
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37079
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37079
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo BR (3)
-http://lista.serverpower.me:80/William/William/37079
-#EXTINF:-1 tvg-logo="https://diylogodesigns.com/wp-content/uploads/2017/07/national-geographic-logo-vector-768x768.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37079
-
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37065
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (2)
-http://lista.serverpower.me:80/smart1/smart1/37065
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (3)
-http://lista.serverpower.me:80/William/William/37065
-#EXTINF:-1 tvg-logo="http://www.lettreaudiovisuel.com/wp-content/uploads/2014/12/Nat-Geo-Wild.png" group-title="39- DOCUMENTAIS BRASIL",Nat Geo Wild (4)
-http://lista.serverpower.me:80/Julia/Julia/37065
-
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/38225
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (2)
-http://lista.serverpower.me:80/smart1/smart1/38225
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (3)
-http://lista.serverpower.me:80/William/William/38225
-#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/tlc-logo-01.png" group-title="39- DOCUMENTAIS BRASIL",Tlc (4)
-http://lista.serverpower.me:80/Julia/Julia/38225
-#EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37103
-#EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (2)
-http://lista.serverpower.me:80/smart1/smart1/37103
-#EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (3)
-http://lista.serverpower.me:80/William/William/37103
-#EXTINF:-1  tvg-logo="https://handeboltaubate.files.wordpress.com/2012/12/bandsports.png" group-title="42- ESPORTES BRASIL",Band Sports (4)
-http://lista.serverpower.me:80/Julia/Julia/37103
-
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37106
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (2)
-http://lista.serverpower.me:80/smart1/smart1/37106
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (3)
-http://lista.serverpower.me:80/William/William/37106
-#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="42- ESPORTES BRASIL",Combate (4)
-http://lista.serverpower.me:80/Julia/Julia/37106
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="42- ESPORTES BRASIL",Espn *BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37109
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="42- ESPORTES BRASIL",Espn *BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37109
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="42- ESPORTES BRASIL",Espn *BR (3)
-http://lista.serverpower.me:80/William/William/37109
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_espn_m.png" group-title="42- ESPORTES BRASIL",Espn *BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37109
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37110
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37110
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (3)
-http://lista.serverpower.me:80/William/William/37110
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_espn-2_m.png" group-title="42- ESPORTES BRASIL",Espn 2 BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37110
-
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37108
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37108
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (3)
-http://lista.serverpower.me:80/William/William/37108
-#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-230-canal-espn-brasil-hd.png" group-title="42- ESPORTES BRASIL",Espn Brasil BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37108
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37055
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37055
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (3)
-http://lista.serverpower.me:80/William/William/37055
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-xSGNOpDB9-A/W1mltwIpEFI/AAAAAAAAObQ/83UBcqoHHyEnWojuARjQbTGkdw4vmP3EACLcBGAs/s320/espnextra.png" group-title="42- ESPORTES BRASIL",Espn Extra BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37055
-
-#EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37111
-#EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37111
-#EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (3)
-http://lista.serverpower.me:80/William/William/37111
-#EXTINF:-1 tvg-logo="https://skydivepuebla.com/wp-content/uploads/2017/10/Fox-sports-logo-300x300.png" group-title="42- ESPORTES BRASIL",Fox Sports *BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37111
-
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37114
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37114
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (3)
-http://lista.serverpower.me:80/William/William/37114
-#EXTINF:-1 tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/fox_sports2_N.png" group-title="42- ESPORTES BRASIL",Fox Sports 2 BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37114
-
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37088
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37088
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (3)
-http://lista.serverpower.me:80/William/William/37088
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-xk-32sZB5XE/VAHkcQOOlNI/AAAAAAACH5w/pIZYQjvBVsY/s1600/PFC_LOGO_2014.png" group-title="42- ESPORTES BRASIL",Premiere *Clubes BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37088
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37087
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37087
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (3)
-http://lista.serverpower.me:80/William/William/37087
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-logo-png-7.png" group-title="42- ESPORTES BRASIL",Sportv *BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37087
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37086
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37086
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (3)
-http://lista.serverpower.me:80/William/William/37086
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/sportv-2-png-8.png" group-title="42- ESPORTES BRASIL",Sportv 2 BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37086
-
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 BR (1)
-http://lista.serverpower.me:80/CRISTIAN/CRISTIAN/37083
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 BR (2)
-http://lista.serverpower.me:80/smart1/smart1/37083
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 BR (3)
-http://lista.serverpower.me:80/William/William/37083
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-sportv-png-5.png" group-title="42- ESPORTES BRASIL",Sportv 3 BR (4)
-http://lista.serverpower.me:80/Julia/Julia/37083
+#EXTINF:-1,A&E HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1521
+#EXTINF:-1,A&E HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/375
+#EXTINF:-1,AMC HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1498
+#EXTINF:-1,AMC HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/373
+#EXTINF:-1,Animal Planet HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1497
+#EXTINF:-1,Animal Planet HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/371
+#EXTINF:-1,Arte 1 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/15
+#EXTINF:-1,As Aventuras de Jackie Chan (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2326
+#EXTINF:-1,AXN HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1496
+#EXTINF:-1,AXN HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/369
+#EXTINF:-1,Baby TV SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/367
+#EXTINF:-1,Band HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/489
+#EXTINF:-1,Band HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/484
+#EXTINF:-1,Band News HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1494
+#EXTINF:-1,Band News HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/363
+#EXTINF:-1,Band Sports HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1495
+#EXTINF:-1,Band Sports HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/360
+#EXTINF:-1,BBB 2020 PRINCIPAL HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3975
+#EXTINF:-1,BBB 2020 CAM 1 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5163
+#EXTINF:-1,BBB 2020 CAM 10 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5172
+#EXTINF:-1,BBB 2020 CAM 2 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5164
+#EXTINF:-1,BBB 2020 CAM 3 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5165
+#EXTINF:-1,BBB 2020 CAM 4 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5166
+#EXTINF:-1,BBB 2020 CAM 5 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5167
+#EXTINF:-1,BBB 2020 CAM 6 HD 
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5168
+#EXTINF:-1,BBB 2020 CAM 7 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5169
+#EXTINF:-1,BBB 2020 CAM 8 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5170
+#EXTINF:-1,BBB 2020 CAM 9 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5171
+#EXTINF:-1,BIS HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1493
+#EXTINF:-1,BIS HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/358
+#EXTINF:-1,Bob Esponja (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2327
+#EXTINF:-1,Boomerang HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1492
+#EXTINF:-1,Boomerang HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/355
+#EXTINF:-1,Canal Brasil HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/353
+#EXTINF:-1,Cartoon Network HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1491
+#EXTINF:-1,Cartoon Network HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/349
+#EXTINF:-1,Chaves (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2701
+#EXTINF:-1,Cinemax HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1490
+#EXTINF:-1,Cinemax HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/347
+#EXTINF:-1,Clássicos Walt Disney (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3970
+#EXTINF:-1,CNN Espanhol SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/345
+#EXTINF:-1,CNN Internacional SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/344
+#EXTINF:-1,Combate HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1489
+#EXTINF:-1,Combate HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/342
+#EXTINF:-1,Comedy Central HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1488
+#EXTINF:-1,Comedy Central HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/340
+#EXTINF:-1,Curta! SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/338
+#EXTINF:-1,DAZN HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2716
+#EXTINF:-1,Discovery Channel HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1487
+#EXTINF:-1,Discovery Channel HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/337
+#EXTINF:-1,Discovery Home & Health HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1518
+#EXTINF:-1,Discovery Home & Health HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/334
+#EXTINF:-1,Discovery Kids HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1483
+#EXTINF:-1,Discovery Kids HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/332
+#EXTINF:-1,Discovery Science HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1482
+#EXTINF:-1,Discovery Science HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/330
+#EXTINF:-1,Discovery Theater HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1486
+#EXTINF:-1,Discovery Theater HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/329
+#EXTINF:-1,Discovery Turbo HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1481
+#EXTINF:-1,Discovery Turbo HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/328
+#EXTINF:-1,Discovery World HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1485
+#EXTINF:-1,Discovery World HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/326
+#EXTINF:-1,Disney Channel HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1480
+#EXTINF:-1,Disney Channel HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/325
+#EXTINF:-1,Disney Júnior HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1478
+#EXTINF:-1,Disney Júnior HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/323
+#EXTINF:-1,Disney XD HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1517
+#EXTINF:-1,Disney XD HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/683
+#EXTINF:-1,Dragon Ball Super (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3972
+#EXTINF:-1,Dragon Ball Z (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3973
+#EXTINF:-1,E! HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/318
+#EXTINF:-1,ESPN 2 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1476
+#EXTINF:-1,ESPN 2 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/314
+#EXTINF:-1,ESPN Brasil HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1475
+#EXTINF:-1,ESPN Brasil HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/313
+#EXTINF:-1,ESPN Extra HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/311
+#EXTINF:-1,ESPN HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1477
+#EXTINF:-1,ESPN HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/309
+#EXTINF:-1,Eu a Patroa e as Crianças (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3974
+#EXTINF:-1,Fish TV SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/307
+#EXTINF:-1,Food Netword HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1474
+#EXTINF:-1,Food Network HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/306
+#EXTINF:-1,Fox HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1473
+#EXTINF:-1,Fox HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/304
+#EXTINF:-1,Fox Life HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1472
+#EXTINF:-1,Fox Life HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/303
+#EXTINF:-1,Fox Premium 1 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1505
+#EXTINF:-1,Fox Sports 2 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1501
+#EXTINF:-1,Fox Sports 2 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/300
+#EXTINF:-1,Fox Sports HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1502
+#EXTINF:-1,Fox Sports HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/298
+#EXTINF:-1,FX HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1469
+#EXTINF:-1,FX HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/294
+#EXTINF:-1,Galinha Pintadinha (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4204
+#EXTINF:-1,Globo Bahia HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2707
+#EXTINF:-1,Globo Bahia SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/260
+#EXTINF:-1,Globo Brasilia HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/291
+#EXTINF:-1,Globo Centro America HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2712
+#EXTINF:-1,Globo EPTV Campinas HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/289
+#EXTINF:-1,Globo EPTV Campinas HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2711
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/287
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2952
+#EXTINF:-1,Globo EPTV Sul Minas HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4469
+#EXTINF:-1,Globo EPTV Sul Minas HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4468
+#EXTINF:-1,Globo EPTV São Carlos HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2941
+#EXTINF:-1,Globo EPTV São Carlos HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2940
+#EXTINF:-1,Globo Goiânia SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/262
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4471
+#EXTINF:-1,Globo Inter TV Grande Minas HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4470
+#EXTINF:-1,Globo Manaus
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/19
+#EXTINF:-1,Globo Minas HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/279
+#EXTINF:-1,Globo Minas HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2713
+#EXTINF:-1,Globo News HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1468
+#EXTINF:-1,Globo News HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/277
+#EXTINF:-1,Globo Nordeste HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/275
+#EXTINF:-1,Globo Nordeste HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2714
+#EXTINF:-1,Globo NSC Floripa HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2710
+#EXTINF:-1,Globo RBS Poa HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1467
+#EXTINF:-1,Globo RBS Poa HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/271
+#EXTINF:-1,Globo RJ HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1504
+#EXTINF:-1,Globo RJ HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/268
+#EXTINF:-1,Globo RPC Paranaense HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2709
+#EXTINF:-1,Globo RPC SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/266
+#EXTINF:-1,Globo S.J Rio Preto HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2945
+#EXTINF:-1,Globo S.J Rio Preto HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2944
+#EXTINF:-1,Globo Sergipe HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/250
+#EXTINF:-1,Globo São Paulo HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1466
+#EXTINF:-1,Globo São Paulo HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/265
+#EXTINF:-1,Globo TV Anhanguera HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2708
+#EXTINF:-1,Globo TV Diario Mogi HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2947
+#EXTINF:-1,Globo TV Diario Mogi HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2946
+#EXTINF:-1,Globo TV Fronteira HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2943
+#EXTINF:-1,Globo TV Fronteira HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2942
+#EXTINF:-1,Globo TV Gazeta Alagoas HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4467
+#EXTINF:-1,Globo TV Gazeta HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/75
+#EXTINF:-1,Globo TV Liberal
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2706
+#EXTINF:-1,Globo TV Mirante HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2705
+#EXTINF:-1,Globo TV Morena HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2704
+#EXTINF:-1,Globo TV TEM Sorocaba HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2949
+#EXTINF:-1,Globo TV TEM Sorocaba HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2948
+#EXTINF:-1,Globo TV TRIBUNA HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2954
+#EXTINF:-1,Globo TV TRIBUNA HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2953
+#EXTINF:-1,Globo TV VANGUARDA HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2951
+#EXTINF:-1,Globo TV VANGUARDA HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2950
+#EXTINF:-1,Globo TV Verdes Mares HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2703
+#EXTINF:-1,Gloob HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1499
+#EXTINF:-1,Gloob HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/686
+#EXTINF:-1,Gloobinho HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1515
+#EXTINF:-1,Gloobinho HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/237
+#EXTINF:-1,GNT HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/235
+#EXTINF:-1,H2 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1465
+#EXTINF:-1,H2 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/233
+#EXTINF:-1,HBO 2 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1460
+#EXTINF:-1,HBO 2 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/231
+#EXTINF:-1,HBO Family HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1464
+#EXTINF:-1,HBO Family HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/229
+#EXTINF:-1,HBO HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1463
+#EXTINF:-1,HBO HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/227
+#EXTINF:-1,HBO Plus HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1462
+#EXTINF:-1,HBO Plus HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/226
+#EXTINF:-1,HBO Signature HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1461
+#EXTINF:-1,HBO Signature HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/224
+#EXTINF:-1,History Channel HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1459
+#EXTINF:-1,History Channel HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/95
+#EXTINF:-1,Investigacao Discovery SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1514
+#EXTINF:-1,Investigação Discovery HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/218
+#EXTINF:-1,Lifetime HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1458
+#EXTINF:-1,Lifetime HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/216
+#EXTINF:-1,Luluzinha (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2609
+#EXTINF:-1,Mais Globosat HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/213
+#EXTINF:-1,Max HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1457
+#EXTINF:-1,Max HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/211
+#EXTINF:-1,Max Prime HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1456
+#EXTINF:-1,Max Prime HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/209
+#EXTINF:-1,Max UP HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1455
+#EXTINF:-1,Max UP HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/207
+#EXTINF:-1,Medabots (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4206
+#EXTINF:-1,Megapix HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1454
+#EXTINF:-1,Megapix HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/204
+#EXTINF:-1,Mickey Mouse Cartoon (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/21058
+#EXTINF:-1,Mickey Mouse Clássico (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/21059
+#EXTINF:-1,MTV HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1453
+#EXTINF:-1,MTV HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/202
+#EXTINF:-1,Multishow HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1452
+#EXTINF:-1,Multishow HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/199
+#EXTINF:-1,Mundo Bita (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4207
+#EXTINF:-1,Nat Geo Kids HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1451
+#EXTINF:-1,Nat Geo Kids HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/195
+#EXTINF:-1,Nat Geo Wild HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1450
+#EXTINF:-1,Nat Geo Wild HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/193
+#EXTINF:-1,National Geographic HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/196
+#EXTINF:-1,Nick JR HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1503
+#EXTINF:-1,Nick JR HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/187
+#EXTINF:-1,Nickelodeon HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1449
+#EXTINF:-1,Nickelodeon HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/188
+#EXTINF:-1,O Pequeno Urso (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2607
+#EXTINF:-1,O Show da Luna (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4208
+#EXTINF:-1,OFF HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/183
+#EXTINF:-1,Os Simpsons (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2328
+#EXTINF:-1,Papaléguas e o Coiote (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4209
+#EXTINF:-1,Paramount Channel HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1448
+#EXTINF:-1,Paramount Channel HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/181
+#EXTINF:-1,Patrulha Canina (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4210
+#EXTINF:-1,Peppa Pig (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2329
+#EXTINF:-1,Pica-Pau (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2325
+#EXTINF:-1,Play TV SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/179
+#EXTINF:-1,Premiere 2 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1511
+#EXTINF:-1,Premiere 2 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/172
+#EXTINF:-1,Premiere 3 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1510
+#EXTINF:-1,Premiere 3 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/170
+#EXTINF:-1,Premiere 4 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1509
+#EXTINF:-1,Premiere 4 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/168
+#EXTINF:-1,Premiere 5 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1508
+#EXTINF:-1,Premiere 5 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/166
+#EXTINF:-1,Premiere 6 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1507
+#EXTINF:-1,Premiere 6 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/164
+#EXTINF:-1,Premiere 7 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1506
+#EXTINF:-1,Premiere 7 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/162
+#EXTINF:-1,Premiere Clubes HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1447
+#EXTINF:-1,Premiere Clubes HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/159
+#EXTINF:-1,Prime Box Brasil HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4456
+#EXTINF:-1,Prime Box Brasil HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/157
+#EXTINF:-1,Record HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/148
+#EXTINF:-1,Record News HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1513
+#EXTINF:-1,Record News HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/405
+#EXTINF:-1,Record SP HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/403
+#EXTINF:-1,Rede TV HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/136
+#EXTINF:-1,Rá Tim Bum HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/72
+#EXTINF:-1,SBT HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1512
+#EXTINF:-1,SBT HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/402
+#EXTINF:-1,Scooby-Doo (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4211
+#EXTINF:-1,Sony HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1446
+#EXTINF:-1,Sony HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/127
+#EXTINF:-1,South Park (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4212
+#EXTINF:-1,Space HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1445
+#EXTINF:-1,Space HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/125
+#EXTINF:-1,SporTV 2 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1443
+#EXTINF:-1,SporTV 2 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/123
+#EXTINF:-1,SporTV 3 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1442
+#EXTINF:-1,SporTV 3 HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/121
+#EXTINF:-1,SporTV HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1444
+#EXTINF:-1,SporTV HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/119
+#EXTINF:-1,Studio Universal HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1441
+#EXTINF:-1,Studio Universal HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/117
+#EXTINF:-1,Super Choque (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2679
+#EXTINF:-1,Syfy HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1440
+#EXTINF:-1,Syfy HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/115
+#EXTINF:-1,TBS HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/113
+#EXTINF:-1,TCM HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/99
+#EXTINF:-1,Telecine Action HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1438
+#EXTINF:-1,Telecine Action HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/111
+#EXTINF:-1,Telecine Cult HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1437
+#EXTINF:-1,Telecine Cult HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/109
+#EXTINF:-1,Telecine Fun HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1436
+#EXTINF:-1,Telecine Fun HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/107
+#EXTINF:-1,Telecine Pipoca HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1435
+#EXTINF:-1,Telecine Pipoca HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/105
+#EXTINF:-1,Telecine Premium HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1434
+#EXTINF:-1,Telecine Premium HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/103
+#EXTINF:-1,Telecine Touch HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1439
+#EXTINF:-1,Telecine Touch HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/101
+#EXTINF:-1,TLC HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/94
+#EXTINF:-1,TNT HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1433
+#EXTINF:-1,TNT HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/92
+#EXTINF:-1,TNT Series HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1432
+#EXTINF:-1,TNT Séries HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/90
+#EXTINF:-1,Todo Mundo Odeia o Chris (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2702
+#EXTINF:-1,Tom e Jerry (24H)
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4214
+#EXTINF:-1,TV Diario HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4473
+#EXTINF:-1,TV Diario HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4472
+#EXTINF:-1,TV5 SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/69
+#EXTINF:-1,Universal Channel HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1431
+#EXTINF:-1,Universal Channel HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/67
+#EXTINF:-1,VH1 HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/65
+#EXTINF:-1,VH1 Mega Hits SD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/64
+#EXTINF:-1,Viva HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2680
+#EXTINF:-1,Viva HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/10
+#EXTINF:-1,Warner Channel HD
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1430
+#EXTINF:-1,Warner Channel HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/61
+#EXTINF:-1,WooHoo HD+
+http://canais.servidor.tv:8080/cristiano2019/cristiano2019/59
