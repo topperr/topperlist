@@ -1,562 +1,1133 @@
-#EXTM3U
-
-#EXTINF:-1,A&E HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1521
-#EXTINF:-1,A&E HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/375
-#EXTINF:-1,AMC HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1498
-#EXTINF:-1,AMC HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/373
-#EXTINF:-1,Animal Planet HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1497
-#EXTINF:-1,Animal Planet HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/371
-#EXTINF:-1,Arte 1 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/15
-#EXTINF:-1,As Aventuras de Jackie Chan (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2326
-#EXTINF:-1,AXN HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1496
-#EXTINF:-1,AXN HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/369
-#EXTINF:-1,Baby TV SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/367
-#EXTINF:-1,Band HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/489
-#EXTINF:-1,Band HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/484
-#EXTINF:-1,Band News HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1494
-#EXTINF:-1,Band News HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/363
-#EXTINF:-1,Band Sports HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1495
-#EXTINF:-1,Band Sports HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/360
-#EXTINF:-1,BBB 2020 PRINCIPAL HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3975
-#EXTINF:-1,BBB 2020 CAM 1 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5163
-#EXTINF:-1,BBB 2020 CAM 10 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5172
-#EXTINF:-1,BBB 2020 CAM 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5164
-#EXTINF:-1,BBB 2020 CAM 3 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5165
-#EXTINF:-1,BBB 2020 CAM 4 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5166
-#EXTINF:-1,BBB 2020 CAM 5 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5167
-#EXTINF:-1,BBB 2020 CAM 6 HD 
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5168
-#EXTINF:-1,BBB 2020 CAM 7 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5169
-#EXTINF:-1,BBB 2020 CAM 8 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5170
-#EXTINF:-1,BBB 2020 CAM 9 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/5171
-#EXTINF:-1,BIS HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1493
-#EXTINF:-1,BIS HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/358
-#EXTINF:-1,Bob Esponja (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2327
-#EXTINF:-1,Boomerang HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1492
-#EXTINF:-1,Boomerang HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/355
-#EXTINF:-1,Canal Brasil HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/353
-#EXTINF:-1,Cartoon Network HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1491
-#EXTINF:-1,Cartoon Network HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/349
-#EXTINF:-1,Chaves (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2701
-#EXTINF:-1,Cinemax HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1490
-#EXTINF:-1,Cinemax HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/347
-#EXTINF:-1,Clássicos Walt Disney (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3970
-#EXTINF:-1,CNN Espanhol SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/345
-#EXTINF:-1,CNN Internacional SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/344
-#EXTINF:-1,Combate HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1489
-#EXTINF:-1,Combate HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/342
-#EXTINF:-1,Comedy Central HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1488
-#EXTINF:-1,Comedy Central HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/340
-#EXTINF:-1,Curta! SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/338
-#EXTINF:-1,DAZN HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2716
-#EXTINF:-1,Discovery Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1487
-#EXTINF:-1,Discovery Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/337
-#EXTINF:-1,Discovery Home & Health HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1518
-#EXTINF:-1,Discovery Home & Health HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/334
-#EXTINF:-1,Discovery Kids HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1483
-#EXTINF:-1,Discovery Kids HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/332
-#EXTINF:-1,Discovery Science HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1482
-#EXTINF:-1,Discovery Science HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/330
-#EXTINF:-1,Discovery Theater HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1486
-#EXTINF:-1,Discovery Theater HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/329
-#EXTINF:-1,Discovery Turbo HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1481
-#EXTINF:-1,Discovery Turbo HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/328
-#EXTINF:-1,Discovery World HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1485
-#EXTINF:-1,Discovery World HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/326
-#EXTINF:-1,Disney Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1480
-#EXTINF:-1,Disney Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/325
-#EXTINF:-1,Disney Júnior HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1478
-#EXTINF:-1,Disney Júnior HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/323
-#EXTINF:-1,Disney XD HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1517
-#EXTINF:-1,Disney XD HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/683
-#EXTINF:-1,Dragon Ball Super (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3972
-#EXTINF:-1,Dragon Ball Z (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3973
-#EXTINF:-1,E! HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/318
-#EXTINF:-1,ESPN 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1476
-#EXTINF:-1,ESPN 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/314
-#EXTINF:-1,ESPN Brasil HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1475
-#EXTINF:-1,ESPN Brasil HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/313
-#EXTINF:-1,ESPN Extra HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/311
-#EXTINF:-1,ESPN HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1477
-#EXTINF:-1,ESPN HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/309
-#EXTINF:-1,Eu a Patroa e as Crianças (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/3974
-#EXTINF:-1,Fish TV SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/307
-#EXTINF:-1,Food Netword HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1474
-#EXTINF:-1,Food Network HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/306
-#EXTINF:-1,Fox HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1473
-#EXTINF:-1,Fox HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/304
-#EXTINF:-1,Fox Life HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1472
-#EXTINF:-1,Fox Life HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/303
-#EXTINF:-1,Fox Premium 1 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1505
-#EXTINF:-1,Fox Sports 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1501
-#EXTINF:-1,Fox Sports 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/300
-#EXTINF:-1,Fox Sports HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1502
-#EXTINF:-1,Fox Sports HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/298
-#EXTINF:-1,FX HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1469
-#EXTINF:-1,FX HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/294
-#EXTINF:-1,Galinha Pintadinha (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4204
-#EXTINF:-1,Globo Bahia HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2707
-#EXTINF:-1,Globo Bahia SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/260
-#EXTINF:-1,Globo Brasilia HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/291
-#EXTINF:-1,Globo Centro America HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2712
-#EXTINF:-1,Globo EPTV Campinas HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/289
-#EXTINF:-1,Globo EPTV Campinas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2711
-#EXTINF:-1,Globo EPTV Ribeirão Preto HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/287
-#EXTINF:-1,Globo EPTV Ribeirão Preto HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2952
-#EXTINF:-1,Globo EPTV Sul Minas HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4469
-#EXTINF:-1,Globo EPTV Sul Minas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4468
-#EXTINF:-1,Globo EPTV São Carlos HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2941
-#EXTINF:-1,Globo EPTV São Carlos HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2940
-#EXTINF:-1,Globo Goiânia SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/262
-#EXTINF:-1,Globo Inter TV Grande Minas HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4471
-#EXTINF:-1,Globo Inter TV Grande Minas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4470
-#EXTINF:-1,Globo Manaus
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/19
-#EXTINF:-1,Globo Minas HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/279
-#EXTINF:-1,Globo Minas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2713
-#EXTINF:-1,Globo News HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1468
-#EXTINF:-1,Globo News HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/277
-#EXTINF:-1,Globo Nordeste HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/275
-#EXTINF:-1,Globo Nordeste HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2714
-#EXTINF:-1,Globo NSC Floripa HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2710
-#EXTINF:-1,Globo RBS Poa HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1467
-#EXTINF:-1,Globo RBS Poa HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/271
+http://178.32.251.80:8000/andrei/andrei/18573
+#EXTINF:-1,BBB HD 
+http://178.32.251.80:8000/andrei/andrei/19231
+#EXTINF:-1,BBB 
+http://178.32.251.80:8000/andrei/andrei/19888
+#EXTINF:-1,BBB HD 2 
+http://178.32.251.80:8000/andrei/andrei/19830
+#EXTINF:-1,BBB 2 
+http://178.32.251.80:8000/andrei/andrei/19889
+#EXTINF:-1,BBB HD 3
+http://178.32.251.80:8000/andrei/andrei/19837
+#EXTINF:-1,BBB HD 4
+http://178.32.251.80:8000/andrei/andrei/19838
+#EXTINF:-1,BBB HD 5
+http://178.32.251.80:8000/andrei/andrei/19839
+#EXTINF:-1,BBB HD 6 
+http://178.32.251.80:8000/andrei/andrei/19840
+#EXTINF:-1,BBB HD 7 
+http://178.32.251.80:8000/andrei/andrei/19841
+#EXTINF:-1,BBB HD 8
+http://178.32.251.80:8000/andrei/andrei/19842
+#EXTINF:-1,BBB HD 9 
+http://178.32.251.80:8000/andrei/andrei/19843
+#EXTINF:-1,BBB HD 10 
+http://178.32.251.80:8000/andrei/andrei/19844
+#EXTINF:-1,BBB HD 11
+http://178.32.251.80:8000/andrei/andrei/19831
+#EXTINF:-1,Globo RJ FHD
+http://178.32.251.80:8000/andrei/andrei/1943
 #EXTINF:-1,Globo RJ HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1504
-#EXTINF:-1,Globo RJ HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/268
-#EXTINF:-1,Globo RPC Paranaense HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2709
-#EXTINF:-1,Globo RPC SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/266
-#EXTINF:-1,Globo S.J Rio Preto HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2945
-#EXTINF:-1,Globo S.J Rio Preto HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2944
-#EXTINF:-1,Globo Sergipe HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/250
-#EXTINF:-1,Globo São Paulo HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1466
-#EXTINF:-1,Globo São Paulo HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/265
-#EXTINF:-1,Globo TV Anhanguera HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2708
-#EXTINF:-1,Globo TV Diario Mogi HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2947
-#EXTINF:-1,Globo TV Diario Mogi HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2946
-#EXTINF:-1,Globo TV Fronteira HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2943
-#EXTINF:-1,Globo TV Fronteira HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2942
-#EXTINF:-1,Globo TV Gazeta Alagoas HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4467
-#EXTINF:-1,Globo TV Gazeta HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/75
-#EXTINF:-1,Globo TV Liberal
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2706
-#EXTINF:-1,Globo TV Mirante HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2705
-#EXTINF:-1,Globo TV Morena HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2704
-#EXTINF:-1,Globo TV TEM Sorocaba HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2949
-#EXTINF:-1,Globo TV TEM Sorocaba HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2948
-#EXTINF:-1,Globo TV TRIBUNA HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2954
-#EXTINF:-1,Globo TV TRIBUNA HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2953
-#EXTINF:-1,Globo TV VANGUARDA HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2951
-#EXTINF:-1,Globo TV VANGUARDA HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2950
-#EXTINF:-1,Globo TV Verdes Mares HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2703
-#EXTINF:-1,Gloob HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1499
-#EXTINF:-1,Gloob HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/686
-#EXTINF:-1,Gloobinho HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1515
-#EXTINF:-1,Gloobinho HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/237
-#EXTINF:-1,GNT HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/235
-#EXTINF:-1,H2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1465
-#EXTINF:-1,H2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/233
-#EXTINF:-1,HBO 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1460
-#EXTINF:-1,HBO 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/231
-#EXTINF:-1,HBO Family HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1464
-#EXTINF:-1,HBO Family HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/229
-#EXTINF:-1,HBO HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1463
-#EXTINF:-1,HBO HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/227
-#EXTINF:-1,HBO Plus HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1462
-#EXTINF:-1,HBO Plus HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/226
-#EXTINF:-1,HBO Signature HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1461
-#EXTINF:-1,HBO Signature HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/224
-#EXTINF:-1,History Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1459
-#EXTINF:-1,History Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/95
-#EXTINF:-1,Investigacao Discovery SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1514
-#EXTINF:-1,Investigação Discovery HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/218
-#EXTINF:-1,Lifetime HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1458
-#EXTINF:-1,Lifetime HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/216
-#EXTINF:-1,Luluzinha (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2609
-#EXTINF:-1,Mais Globosat HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/213
-#EXTINF:-1,Max HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1457
-#EXTINF:-1,Max HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/211
-#EXTINF:-1,Max Prime HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1456
-#EXTINF:-1,Max Prime HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/209
-#EXTINF:-1,Max UP HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1455
-#EXTINF:-1,Max UP HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/207
-#EXTINF:-1,Medabots (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4206
-#EXTINF:-1,Megapix HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1454
-#EXTINF:-1,Megapix HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/204
-#EXTINF:-1,Mickey Mouse Cartoon (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/21058
-#EXTINF:-1,Mickey Mouse Clássico (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/21059
-#EXTINF:-1,MTV HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1453
-#EXTINF:-1,MTV HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/202
-#EXTINF:-1,Multishow HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1452
-#EXTINF:-1,Multishow HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/199
-#EXTINF:-1,Mundo Bita (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4207
-#EXTINF:-1,Nat Geo Kids HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1451
-#EXTINF:-1,Nat Geo Kids HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/195
-#EXTINF:-1,Nat Geo Wild HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1450
-#EXTINF:-1,Nat Geo Wild HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/193
-#EXTINF:-1,National Geographic HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/196
-#EXTINF:-1,Nick JR HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1503
-#EXTINF:-1,Nick JR HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/187
-#EXTINF:-1,Nickelodeon HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1449
-#EXTINF:-1,Nickelodeon HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/188
-#EXTINF:-1,O Pequeno Urso (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2607
-#EXTINF:-1,O Show da Luna (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4208
-#EXTINF:-1,OFF HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/183
-#EXTINF:-1,Os Simpsons (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2328
-#EXTINF:-1,Papaléguas e o Coiote (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4209
-#EXTINF:-1,Paramount Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1448
-#EXTINF:-1,Paramount Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/181
-#EXTINF:-1,Patrulha Canina (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4210
-#EXTINF:-1,Peppa Pig (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2329
-#EXTINF:-1,Pica-Pau (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2325
-#EXTINF:-1,Play TV SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/179
-#EXTINF:-1,Premiere 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1511
-#EXTINF:-1,Premiere 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/172
-#EXTINF:-1,Premiere 3 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1510
-#EXTINF:-1,Premiere 3 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/170
-#EXTINF:-1,Premiere 4 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1509
-#EXTINF:-1,Premiere 4 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/168
-#EXTINF:-1,Premiere 5 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1508
-#EXTINF:-1,Premiere 5 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/166
-#EXTINF:-1,Premiere 6 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1507
-#EXTINF:-1,Premiere 6 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/164
-#EXTINF:-1,Premiere 7 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1506
-#EXTINF:-1,Premiere 7 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/162
-#EXTINF:-1,Premiere Clubes HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1447
-#EXTINF:-1,Premiere Clubes HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/159
-#EXTINF:-1,Prime Box Brasil HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4456
-#EXTINF:-1,Prime Box Brasil HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/157
-#EXTINF:-1,Record HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/148
-#EXTINF:-1,Record News HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1513
-#EXTINF:-1,Record News HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/405
-#EXTINF:-1,Record SP HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/403
-#EXTINF:-1,Rede TV HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/136
-#EXTINF:-1,Rá Tim Bum HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/72
+http://178.32.251.80:8000/andrei/andrei/1942
+#EXTINF:-1,Globo RJ Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/2617
+#EXTINF:-1,Globo RJ Alternativo
+http://178.32.251.80:8000/andrei/andrei/2618
+#EXTINF:-1,Globo SP FHD
+http://178.32.251.80:8000/andrei/andrei/1949
+#EXTINF:-1,Globo SP HD
+http://178.32.251.80:8000/andrei/andrei/1948
+#EXTINF:-1,Globo SP Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/2619
+#EXTINF:-1,Globo SP Alternativo
+http://178.32.251.80:8000/andrei/andrei/2620
+#EXTINF:-1,Globo MG FHD
+http://178.32.251.80:8000/andrei/andrei/1981
+#EXTINF:-1,Globo MG HD
+http://178.32.251.80:8000/andrei/andrei/1933
+#EXTINF:-1,Globo RPC Curitiba FHD
+http://178.32.251.80:8000/andrei/andrei/1946
+#EXTINF:-1,Globo RPC Curitiba HD²
+http://178.32.251.80:8000/andrei/andrei/1945
+#EXTINF:-1,Globo Brasilia FHD
+http://178.32.251.80:8000/andrei/andrei/1979
+#EXTINF:-1,Globo Brasilia HD
+http://178.32.251.80:8000/andrei/andrei/1924
+#EXTINF:-1,Globo Nordeste FHD
+http://178.32.251.80:8000/andrei/andrei/1982
+#EXTINF:-1,Globo Nordeste HD
+http://178.32.251.80:8000/andrei/andrei/1935
+#EXTINF:-1,Globo TV TEM S. J. Rio Preto FHD
+http://178.32.251.80:8000/andrei/andrei/1993
+#EXTINF:-1,Globo TV Tem S. J. do Rio Preto HD
+http://178.32.251.80:8000/andrei/andrei/1958
+#EXTINF:-1,Globo TV Sergipe FHD
+http://178.32.251.80:8000/andrei/andrei/1977
+#EXTINF:-1,Globo TV Sergipe HD
+http://178.32.251.80:8000/andrei/andrei/1978
+#EXTINF:-1,Globo TV Santa Cruz FHD
+http://178.32.251.80:8000/andrei/andrei/2030
+#EXTINF:-1,Globo TV Santa Cruz HD
+http://178.32.251.80:8000/andrei/andrei/2031
+#EXTINF:-1,Globo TV Rio Sul FHD
+http://178.32.251.80:8000/andrei/andrei/2027
+#EXTINF:-1,Globo TV Rio Sul HD
+http://178.32.251.80:8000/andrei/andrei/2028
+#EXTINF:-1,Globo TV Morena Campo Grande FHD
+http://178.32.251.80:8000/andrei/andrei/1990
+#EXTINF:-1,Globo TV Morena Campo Grande HD
+http://178.32.251.80:8000/andrei/andrei/1991
+#EXTINF:-1,Globo TV Mirante São Luis FHD
+http://178.32.251.80:8000/andrei/andrei/1987
+#EXTINF:-1,Globo TV Mirante São Luis HD
+http://178.32.251.80:8000/andrei/andrei/1988
+#EXTINF:-1,Globo TV Gazeta VitÃ³ria FHD
+http://178.32.251.80:8000/andrei/andrei/1974
+#EXTINF:-1,Globo TV Gazeta VitÃ³ria HD
+http://178.32.251.80:8000/andrei/andrei/1975
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD
+http://178.32.251.80:8000/andrei/andrei/1997
+#EXTINF:-1,Globo TV Gazeta Sul ES HD
+http://178.32.251.80:8000/andrei/andrei/1998
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD
+http://178.32.251.80:8000/andrei/andrei/1995
+#EXTINF:-1,Globo TV Gazeta Alagoas HD
+http://178.32.251.80:8000/andrei/andrei/1996
+#EXTINF:-1,Globo TV Clube Teresina FHD
+http://178.32.251.80:8000/andrei/andrei/1971
+#EXTINF:-1,Globo TV Clube Teresina HD
+http://178.32.251.80:8000/andrei/andrei/1972
+#EXTINF:-1,Globo TV Cabo Branco FHD
+http://178.32.251.80:8000/andrei/andrei/2024
+#EXTINF:-1,Globo TV Cabo Branco HD
+http://178.32.251.80:8000/andrei/andrei/2025
+#EXTINF:-1,Globo TV Bahia FHD
+http://178.32.251.80:8000/andrei/andrei/1986
+#EXTINF:-1,Globo TV Bahia HD
+http://178.32.251.80:8000/andrei/andrei/1953
+#EXTINF:-1,Globo TV Anhanguera FHD
+http://178.32.251.80:8000/andrei/andrei/1985
+#EXTINF:-1,Globo TV Anhanguera HD
+http://178.32.251.80:8000/andrei/andrei/1951
+#EXTINF:-1,Globo RPC Foz do Iguaçu FHD
+http://178.32.251.80:8000/andrei/andrei/1968
+#EXTINF:-1,Globo RPC Foz do Iguaçu HD
+http://178.32.251.80:8000/andrei/andrei/1969
+#EXTINF:-1,Globo RPC Maringa FHD
+http://178.32.251.80:8000/andrei/andrei/12729
+#EXTINF:-1,Globo RPC Maringa HD
+http://178.32.251.80:8000/andrei/andrei/12730
+#EXTINF:-1,Globo RPC Maringa 
+http://178.32.251.80:8000/andrei/andrei/12731
+#EXTINF:-1,Globo RBS POA FHD
+http://178.32.251.80:8000/andrei/andrei/1984
+#EXTINF:-1,Globo RBS TV POA HD
+http://178.32.251.80:8000/andrei/andrei/1939
+#EXTINF:-1,Globo RBS TV Pelotas FHD
+http://178.32.251.80:8000/andrei/andrei/2021
+#EXTINF:-1,Globo RBS TV Pelotas HD
+http://178.32.251.80:8000/andrei/andrei/2022
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD
+http://178.32.251.80:8000/andrei/andrei/2015
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD
+http://178.32.251.80:8000/andrei/andrei/2016
+#EXTINF:-1,Globo NSC TV Joinville FHD
+http://178.32.251.80:8000/andrei/andrei/2018
+#EXTINF:-1,Globo NSC TV Joinville HD
+http://178.32.251.80:8000/andrei/andrei/2019
+#EXTINF:-1,Globo NSC TV Joinville
+http://178.32.251.80:8000/andrei/andrei/2020
+#EXTINF:-1,Globo NSC TV Florianopolis FHD
+http://178.32.251.80:8000/andrei/andrei/1983
+#EXTINF:-1,Globo NSC TV Florianopolis HD
+http://178.32.251.80:8000/andrei/andrei/1937
+#EXTINF:-1,Globo NSC TV Chapecó FHD
+http://178.32.251.80:8000/andrei/andrei/1964
+#EXTINF:-1,Globo NSC TV Chapecó HD
+http://178.32.251.80:8000/andrei/andrei/1965
+#EXTINF:-1,Globo NSC TV Blumenau FHD
+http://178.32.251.80:8000/andrei/andrei/2012
+#EXTINF:-1,Globo NSC TV Blumenau HD
+http://178.32.251.80:8000/andrei/andrei/2013
+#EXTINF:-1,Globo Inter TV Serra Mar FHD
+http://178.32.251.80:8000/andrei/andrei/2009
+#EXTINF:-1,Globo Inter TV Serra Mar HD
+http://178.32.251.80:8000/andrei/andrei/2010
+#EXTINF:-1,Globo Inter TV Grande Minas FHD
+http://178.32.251.80:8000/andrei/andrei/2006
+#EXTINF:-1,Globo Inter TV Grande Minas HD
+http://178.32.251.80:8000/andrei/andrei/2007
+#EXTINF:-1,Globo Inter TV dos Vales FHD
+http://178.32.251.80:8000/andrei/andrei/2003
+#EXTINF:-1,Globo Inter TV dos Vales HD
+http://178.32.251.80:8000/andrei/andrei/2004
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD
+http://178.32.251.80:8000/andrei/andrei/2000
+#EXTINF:-1,Globo Inter TV Alto Litoral HD
+http://178.32.251.80:8000/andrei/andrei/2001
+#EXTINF:-1,Globo Recife
+http://178.32.251.80:8000/andrei/andrei/20715
+#EXTINF:-1,Globo EPTV Ribeirão Preto FHD
+http://178.32.251.80:8000/andrei/andrei/1999
+#EXTINF:-1,Globo EPTV Ribeirão Preto HD
+http://178.32.251.80:8000/andrei/andrei/1928
+#EXTINF:-1,Globo EPTV Campinas FHD
+http://178.32.251.80:8000/andrei/andrei/1980
+#EXTINF:-1,Globo EPTV Campinas HD
+http://178.32.251.80:8000/andrei/andrei/1927
+#EXTINF:-1,Globo EPTV Campinas
+http://178.32.251.80:8000/andrei/andrei/1926
+#EXTINF:-1,Globo Portugal
+http://178.32.251.80:8000/andrei/andrei/2435
+#EXTINF:-1,Globo Now
+http://178.32.251.80:8000/andrei/andrei/2433
+#EXTINF:-1,RecordTV SP FHD
+http://178.32.251.80:8000/andrei/andrei/2371
+#EXTINF:-1,RecordTV SP HD
+http://178.32.251.80:8000/andrei/andrei/2206
+#EXTINF:-1,RecordTV SP HD2
+http://178.32.251.80:8000/andrei/andrei/2203
+#EXTINF:-1,Record TV SP Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1278
+#EXTINF:-1,RecordTV RJ HD
+http://178.32.251.80:8000/andrei/andrei/2274
+#EXTINF:-1,RecordTV RJ
+http://178.32.251.80:8000/andrei/andrei/2275
+#EXTINF:-1,RecordTV RS HD
+http://178.32.251.80:8000/andrei/andrei/2285
+#EXTINF:-1,RecordTV MG HD
+http://178.32.251.80:8000/andrei/andrei/2276
+#EXTINF:-1,RecordTV MG
+http://178.32.251.80:8000/andrei/andrei/2277
+#EXTINF:-1,RecordTV DF HD
+http://178.32.251.80:8000/andrei/andrei/2283
+#EXTINF:-1,RecordTV DF
+http://178.32.251.80:8000/andrei/andrei/2284
+#EXTINF:-1,RecordTV BA HD
+http://178.32.251.80:8000/andrei/andrei/2281
+#EXTINF:-1,RecordTV BA
+http://178.32.251.80:8000/andrei/andrei/2282
+#EXTINF:-1,RecordTV GO FHD
+http://178.32.251.80:8000/andrei/andrei/13196
+#EXTINF:-1,RecordTV GO HD
+http://178.32.251.80:8000/andrei/andrei/10932
+#EXTINF:-1,RecordTV GO
+http://178.32.251.80:8000/andrei/andrei/10933
+#EXTINF:-1,RecordTV Belem HD
+http://178.32.251.80:8000/andrei/andrei/10930
+#EXTINF:-1,RecordTV Belem 
+http://178.32.251.80:8000/andrei/andrei/10931
+#EXTINF:-1,RecorTV Recife  
+http://178.32.251.80:8000/andrei/andrei/20713
+#EXTINF:-1,RecordTV Santa Catarina 
+http://178.32.251.80:8000/andrei/andrei/16606
+#EXTINF:-1,RecordTV São Jose do Rio Preto 
+http://178.32.251.80:8000/andrei/andrei/13195
+#EXTINF:-1,RecordTV Campinas 
+http://178.32.251.80:8000/andrei/andrei/19845
+#EXTINF:-1,RecordTV Sergipe 
+http://178.32.251.80:8000/andrei/andrei/13194
+#EXTINF:-1,Record Portugal
+http://178.32.251.80:8000/andrei/andrei/2436
+#EXTINF:-1,SBT FHD
+http://178.32.251.80:8000/andrei/andrei/1900
 #EXTINF:-1,SBT HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1512
-#EXTINF:-1,SBT HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/402
-#EXTINF:-1,Scooby-Doo (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4211
-#EXTINF:-1,Sony HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1446
-#EXTINF:-1,Sony HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/127
-#EXTINF:-1,South Park (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4212
-#EXTINF:-1,Space HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1445
-#EXTINF:-1,Space HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/125
-#EXTINF:-1,SporTV 2 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1443
-#EXTINF:-1,SporTV 2 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/123
-#EXTINF:-1,SporTV 3 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1442
-#EXTINF:-1,SporTV 3 HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/121
+http://178.32.251.80:8000/andrei/andrei/2212
+#EXTINF:-1,SBT Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1324
+#EXTINF:-1,SBT Recife 
+http://178.32.251.80:8000/andrei/andrei/20714
+#EXTINF:-1,Band SP FHD
+http://178.32.251.80:8000/andrei/andrei/1878
+#EXTINF:-1,Band SP HD
+http://178.32.251.80:8000/andrei/andrei/2056
+#EXTINF:-1,Band Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1268
+#EXTINF:-1,Band Campinas 
+http://178.32.251.80:8000/andrei/andrei/20625
+#EXTINF:-1,Band Recife 
+http://178.32.251.80:8000/andrei/andrei/20712
+#EXTINF:-1,Band Internacional 
+http://178.32.251.80:8000/andrei/andrei/18590
+#EXTINF:-1,Rede TV FHD
+http://178.32.251.80:8000/andrei/andrei/1910
+#EXTINF:-1,Rede TV! HD
+http://178.32.251.80:8000/andrei/andrei/2209
+#EXTINF:-1,Rede TV Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1323
+#EXTINF:-1,Tv Diario Fortaleza FHD
+http://178.32.251.80:8000/andrei/andrei/1914
+#EXTINF:-1,TV Diario Fortaleza HD
+http://178.32.251.80:8000/andrei/andrei/2287
+#EXTINF:-1,Tv Cultura FHD
+http://178.32.251.80:8000/andrei/andrei/1909
+#EXTINF:-1,TV Cultura HD
+http://178.32.251.80:8000/andrei/andrei/2272
+#EXTINF:-1,TV Vale Verde Cariri CE 
+http://178.32.251.80:8000/andrei/andrei/19846
+#EXTINF:-1,TV Gazeta SP HD
+http://178.32.251.80:8000/andrei/andrei/2252
+#EXTINF:-1,Futura FHD
+http://178.32.251.80:8000/andrei/andrei/1834
+#EXTINF:-1,Futura HD
+http://178.32.251.80:8000/andrei/andrei/2126
+#EXTINF:-1,Canal do Boi
+http://178.32.251.80:8000/andrei/andrei/2291
+#EXTINF:-1,Globo News FHD
+http://178.32.251.80:8000/andrei/andrei/1888
+#EXTINF:-1,Globo News HD
+http://178.32.251.80:8000/andrei/andrei/2130
+#EXTINF:-1,Globo News Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1341
+#EXTINF:-1,Band News FHD
+http://178.32.251.80:8000/andrei/andrei/1811
+#EXTINF:-1,Band News HD
+http://178.32.251.80:8000/andrei/andrei/2058
+#EXTINF:-1,Band News Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1476
+#EXTINF:-1,Record News FHD
+http://178.32.251.80:8000/andrei/andrei/1861
+#EXTINF:-1,Record News HD
+http://178.32.251.80:8000/andrei/andrei/2205
+#EXTINF:-1,Record News Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1475
+#EXTINF:-1,SporTV FHD
+http://178.32.251.80:8000/andrei/andrei/2035
+#EXTINF:-1,Sportv HD
+http://178.32.251.80:8000/andrei/andrei/2038
+#EXTINF:-1,Sportv Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1303
+#EXTINF:-1,SporTV 2 FHD
+http://178.32.251.80:8000/andrei/andrei/1917
+#EXTINF:-1,Sportv 2 HD
+http://178.32.251.80:8000/andrei/andrei/2036
+#EXTINF:-1,SporTV 2 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1301
+#EXTINF:-1,SporTV 3 FHD
+http://178.32.251.80:8000/andrei/andrei/1918
+#EXTINF:-1,Sportv 3 HD
+http://178.32.251.80:8000/andrei/andrei/2037
+#EXTINF:-1,Sportv 3 Alternativo  HD
+http://178.32.251.80:8000/andrei/andrei/1302
+#EXTINF:-1,Fox Sports FHD
+http://178.32.251.80:8000/andrei/andrei/1887
+#EXTINF:-1,Fox Sports HD
+http://178.32.251.80:8000/andrei/andrei/2122
+#EXTINF:-1,FOX Sports Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1295
+#EXTINF:-1,Fox Sports 2 FHD
+http://178.32.251.80:8000/andrei/andrei/1886
+#EXTINF:-1,Fox Sports 2 HD
+http://178.32.251.80:8000/andrei/andrei/2124
+#EXTINF:-1,FOX Sports 2 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1314
+#EXTINF:-1,Espn Brasil FHD
+http://178.32.251.80:8000/andrei/andrei/1883
+#EXTINF:-1,Espn Brasil HD
+http://178.32.251.80:8000/andrei/andrei/2105
+#EXTINF:-1,ESPN Brasil Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1294
+#EXTINF:-1,Espn FHD
+http://178.32.251.80:8000/andrei/andrei/1884
+#EXTINF:-1,Espn HD
+http://178.32.251.80:8000/andrei/andrei/2108
+#EXTINF:-1,ESPN Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1311
+#EXTINF:-1,ESPN 2 FHD
+http://178.32.251.80:8000/andrei/andrei/1827
+#EXTINF:-1,Espn 2 HD
+http://178.32.251.80:8000/andrei/andrei/2103
+#EXTINF:-1,ESPN 2 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1293
+#EXTINF:-1,ESPN Extra FHD
+http://178.32.251.80:8000/andrei/andrei/1828
+#EXTINF:-1,Espn Extra HD
+http://178.32.251.80:8000/andrei/andrei/2107
+#EXTINF:-1,ESPN Extra Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1310
+#EXTINF:-1,ESPN Plus Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1312
+#EXTINF:-1,EI Plus HD
+http://178.32.251.80:8000/andrei/andrei/2300
+#EXTINF:-1,Combate FHD
+http://178.32.251.80:8000/andrei/andrei/1880
+#EXTINF:-1,Combate HD
+http://178.32.251.80:8000/andrei/andrei/2076
+#EXTINF:-1,Combate Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1291
+#EXTINF:-1,Band Sports FHD
+http://178.32.251.80:8000/andrei/andrei/1812
+#EXTINF:-1,Band Sports HD
+http://178.32.251.80:8000/andrei/andrei/2060
+#EXTINF:-1,Band Sports Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1289
+#EXTINF:-1,DAZN 1 HD
+http://178.32.251.80:8000/andrei/andrei/2303
+#EXTINF:-1,DAZN 1 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1406
+#EXTINF:-1,DAZN 2 HD 
+http://178.32.251.80:8000/andrei/andrei/2304
+#EXTINF:-1,DAZN 2 Alternativo HD 
+http://178.32.251.80:8000/andrei/andrei/11617
+#EXTINF:-1,DAZN 3 HD
+http://178.32.251.80:8000/andrei/andrei/20617
+#EXTINF:-1,DAZN 3 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/11618
+#EXTINF:-1,DAZN 4 HD 
+http://178.32.251.80:8000/andrei/andrei/20618
+#EXTINF:-1,DAZN 4 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/11619
+#EXTINF:-1,DAZN 5 HD 
+http://178.32.251.80:8000/andrei/andrei/20619
+#EXTINF:-1,DAZN 6 HD 
+http://178.32.251.80:8000/andrei/andrei/20620
+#EXTINF:-1,Copa Nordeste 1 
+http://178.32.251.80:8000/andrei/andrei/19849
+#EXTINF:-1,Copa Nordeste Alternativo 1 
+http://178.32.251.80:8000/andrei/andrei/19887
+#EXTINF:-1,Copa Nordeste 2
+http://178.32.251.80:8000/andrei/andrei/19850
+#EXTINF:-1,Copa Nordeste 3
+http://178.32.251.80:8000/andrei/andrei/19851
+#EXTINF:-1,Catarinense 1
+http://178.32.251.80:8000/andrei/andrei/19852
+#EXTINF:-1,Catarinense Alternativo 1
+http://178.32.251.80:8000/andrei/andrei/19886
+#EXTINF:-1,Catarinense 2 
+http://178.32.251.80:8000/andrei/andrei/19853
+#EXTINF:-1,Champions League 01
+http://178.32.251.80:8000/andrei/andrei/10897
+#EXTINF:-1,Champions League 02
+http://178.32.251.80:8000/andrei/andrei/10898
+#EXTINF:-1,Champions League 03
+http://178.32.251.80:8000/andrei/andrei/10899
+#EXTINF:-1,Champions League 04
+http://178.32.251.80:8000/andrei/andrei/10900
+#EXTINF:-1,Champions League 05
+http://178.32.251.80:8000/andrei/andrei/10901
+#EXTINF:-1,Champions League 06
+http://178.32.251.80:8000/andrei/andrei/10902
+#EXTINF:-1,SporTV FHD
+http://178.32.251.80:8000/andrei/andrei/13069
 #EXTINF:-1,SporTV HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1444
-#EXTINF:-1,SporTV HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/119
-#EXTINF:-1,Studio Universal HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1441
-#EXTINF:-1,Studio Universal HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/117
-#EXTINF:-1,Super Choque (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2679
-#EXTINF:-1,Syfy HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1440
-#EXTINF:-1,Syfy HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/115
-#EXTINF:-1,TBS HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/113
-#EXTINF:-1,TCM HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/99
-#EXTINF:-1,Telecine Action HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1438
-#EXTINF:-1,Telecine Action HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/111
-#EXTINF:-1,Telecine Cult HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1437
-#EXTINF:-1,Telecine Cult HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/109
-#EXTINF:-1,Telecine Fun HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1436
-#EXTINF:-1,Telecine Fun HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/107
-#EXTINF:-1,Telecine Pipoca HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1435
-#EXTINF:-1,Telecine Pipoca HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/105
+http://178.32.251.80:8000/andrei/andrei/13070
+#EXTINF:-1,SporTV
+http://178.32.251.80:8000/andrei/andrei/13071
+#EXTINF:-1,SporTV 2 FHD
+http://178.32.251.80:8000/andrei/andrei/13072
+#EXTINF:-1,SporTV 2 HD
+http://178.32.251.80:8000/andrei/andrei/13073
+#EXTINF:-1,SporTV 2
+http://178.32.251.80:8000/andrei/andrei/13074
+#EXTINF:-1,SporTV 3 FHD
+http://178.32.251.80:8000/andrei/andrei/13075
+#EXTINF:-1,SporTV 3 HD
+http://178.32.251.80:8000/andrei/andrei/13076
+#EXTINF:-1,SporTV 3
+http://178.32.251.80:8000/andrei/andrei/13077
+#EXTINF:-1,Fox Sports FHD
+http://178.32.251.80:8000/andrei/andrei/13078
+#EXTINF:-1,Fox Sports HD
+http://178.32.251.80:8000/andrei/andrei/13079
+#EXTINF:-1,Fox Sports
+http://178.32.251.80:8000/andrei/andrei/13080
+#EXTINF:-1,Fox Sports 2 FHD
+http://178.32.251.80:8000/andrei/andrei/13081
+#EXTINF:-1,FoxSports 2 HD
+http://178.32.251.80:8000/andrei/andrei/13082
+#EXTINF:-1,Fox Sports 2
+http://178.32.251.80:8000/andrei/andrei/13083
+#EXTINF:-1,ESPN Brasil FHD
+http://178.32.251.80:8000/andrei/andrei/13084
+#EXTINF:-1,ESPN Brasil HD
+http://178.32.251.80:8000/andrei/andrei/13085
+#EXTINF:-1,ESPN Brasil
+http://178.32.251.80:8000/andrei/andrei/13086
+#EXTINF:-1,ESPN FHD
+http://178.32.251.80:8000/andrei/andrei/13087
+#EXTINF:-1,ESPN HD
+http://178.32.251.80:8000/andrei/andrei/13088
+#EXTINF:-1,ESPN
+http://178.32.251.80:8000/andrei/andrei/13089
+#EXTINF:-1,ESPN 2 FHD
+http://178.32.251.80:8000/andrei/andrei/13090
+#EXTINF:-1,ESPN 2 HD
+http://178.32.251.80:8000/andrei/andrei/13091
+#EXTINF:-1,ESPN 2
+http://178.32.251.80:8000/andrei/andrei/13092
+#EXTINF:-1,ESPN Extra FHD
+http://178.32.251.80:8000/andrei/andrei/13093
+#EXTINF:-1,ESPN Extra HD
+http://178.32.251.80:8000/andrei/andrei/13094
+#EXTINF:-1,ESPN Extra 
+http://178.32.251.80:8000/andrei/andrei/13102
+#EXTINF:-1,Combate FHD
+http://178.32.251.80:8000/andrei/andrei/13095
+#EXTINF:-1,Combate HD
+http://178.32.251.80:8000/andrei/andrei/13096
+#EXTINF:-1,Combate
+http://178.32.251.80:8000/andrei/andrei/13097
+#EXTINF:-1,Band Sports FHD
+http://178.32.251.80:8000/andrei/andrei/13099
+#EXTINF:-1,Band Sports HD
+http://178.32.251.80:8000/andrei/andrei/13100
+#EXTINF:-1,Band Sports
+http://178.32.251.80:8000/andrei/andrei/13101
+#EXTINF:-1,Premiere Clubes FHD
+http://178.32.251.80:8000/andrei/andrei/1898
+#EXTINF:-1,Premiere Clubes HD
+http://178.32.251.80:8000/andrei/andrei/2199
+#EXTINF:-1,Premiere Clubes Alternativo FHD
+http://178.32.251.80:8000/andrei/andrei/12820
+#EXTINF:-1,Premiere Clubes Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1277
+#EXTINF:-1,PFC Internacional 
+http://178.32.251.80:8000/andrei/andrei/1605
+#EXTINF:-1,PFC Internacional Alternativo 
+http://178.32.251.80:8000/andrei/andrei/18589
+#EXTINF:-1,Premiere 2 FHD
+http://178.32.251.80:8000/andrei/andrei/1892
+#EXTINF:-1,Premiere 2 HD
+http://178.32.251.80:8000/andrei/andrei/2187
+#EXTINF:-1,Premiere 2 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1273
+#EXTINF:-1,Premiere 3 FHD
+http://178.32.251.80:8000/andrei/andrei/1893
+#EXTINF:-1,Premiere 3 HD
+http://178.32.251.80:8000/andrei/andrei/2189
+#EXTINF:-1,Premiere 3 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1274
+#EXTINF:-1,Premiere 4 FHD
+http://178.32.251.80:8000/andrei/andrei/1894
+#EXTINF:-1,Premiere 4 HD
+http://178.32.251.80:8000/andrei/andrei/2191
+#EXTINF:-1,Premiere 4 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1275
+#EXTINF:-1,Premiere 5 FHD
+http://178.32.251.80:8000/andrei/andrei/1895
+#EXTINF:-1,Premiere 5 HD
+http://178.32.251.80:8000/andrei/andrei/2193
+#EXTINF:-1,Premiere 5 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1276
+#EXTINF:-1,Premiere 6 FHD
+http://178.32.251.80:8000/andrei/andrei/1896
+#EXTINF:-1,Premiere 6 HD
+http://178.32.251.80:8000/andrei/andrei/2195
+#EXTINF:-1,Premiere 6 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/7945
+#EXTINF:-1,Premiere 7 FHD
+http://178.32.251.80:8000/andrei/andrei/1897
+#EXTINF:-1,Premiere 7 HD
+http://178.32.251.80:8000/andrei/andrei/2197
+#EXTINF:-1,Premiere 7 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/7946
+#EXTINF:-1,Premiere 8 Alternativo
+http://178.32.251.80:8000/andrei/andrei/7948
+#EXTINF:-1,Premiere 9
+http://178.32.251.80:8000/andrei/andrei/7947
+#EXTINF:-1,Telecine Premium FHD
+http://178.32.251.80:8000/andrei/andrei/1904
 #EXTINF:-1,Telecine Premium HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1434
-#EXTINF:-1,Telecine Premium HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/103
+http://178.32.251.80:8000/andrei/andrei/2235
+#EXTINF:-1,Telecine Premium Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1282
+#EXTINF:-1,Telecine Action FHD
+http://178.32.251.80:8000/andrei/andrei/1901
+#EXTINF:-1,Telecine Action HD
+http://178.32.251.80:8000/andrei/andrei/2227
+#EXTINF:-1,Telecine Action Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1279
+#EXTINF:-1,Telecine Touch FHD
+http://178.32.251.80:8000/andrei/andrei/1905
 #EXTINF:-1,Telecine Touch HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1439
-#EXTINF:-1,Telecine Touch HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/101
-#EXTINF:-1,TLC HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/94
+http://178.32.251.80:8000/andrei/andrei/2237
+#EXTINF:-1,Telecine Touch Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1326
+#EXTINF:-1,Telecine Pipoca FHD
+http://178.32.251.80:8000/andrei/andrei/1903
+#EXTINF:-1,Telecine Pipoca HD
+http://178.32.251.80:8000/andrei/andrei/2233
+#EXTINF:-1,Telecine Pipoca Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1281
+#EXTINF:-1,Telecine Fun FHD
+http://178.32.251.80:8000/andrei/andrei/1902
+#EXTINF:-1,Telecine Fun HD
+http://178.32.251.80:8000/andrei/andrei/2231
+#EXTINF:-1,Telecine Fun Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1280
+#EXTINF:-1,Telecine Cult FHD
+http://178.32.251.80:8000/andrei/andrei/1866
+#EXTINF:-1,Telecine Cult HD
+http://178.32.251.80:8000/andrei/andrei/2229
+#EXTINF:-1,Telecine Alternativo Cult HD
+http://178.32.251.80:8000/andrei/andrei/1347
+#EXTINF:-1,Megapix FHD
+http://178.32.251.80:8000/andrei/andrei/1848
+#EXTINF:-1,Megapix HD
+http://178.32.251.80:8000/andrei/andrei/2164
+#EXTINF:-1,MegaPix Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1321
+#EXTINF:-1,Studio Universal FHD
+http://178.32.251.80:8000/andrei/andrei/1863
+#EXTINF:-1,Studio Universal HD
+http://178.32.251.80:8000/andrei/andrei/2222
+#EXTINF:-1,Studio Universal Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1266
+#EXTINF:-1,Syfy FHD
+http://178.32.251.80:8000/andrei/andrei/1864
+#EXTINF:-1,Syfy HD
+http://178.32.251.80:8000/andrei/andrei/2215
+#EXTINF:-1,SyFy Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1267
+#EXTINF:-1,Canal Brasil FHD
+http://178.32.251.80:8000/andrei/andrei/1908
+#EXTINF:-1,Canal Brasil HD
+http://178.32.251.80:8000/andrei/andrei/2067
+#EXTINF:-1,Canal Brasil
+http://178.32.251.80:8000/andrei/andrei/2066
+#EXTINF:-1,Canal Brasil Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1331
+#EXTINF:-1,Canal Brasil Alternativo 
+http://178.32.251.80:8000/andrei/andrei/1123
+#EXTINF:-1,HBO FHD
+http://178.32.251.80:8000/andrei/andrei/1891
+#EXTINF:-1,HBO HD
+http://178.32.251.80:8000/andrei/andrei/2144
+#EXTINF:-1,HBO Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1271
+#EXTINF:-1,HBO 2 FHD
+http://178.32.251.80:8000/andrei/andrei/1890
+#EXTINF:-1,HBO 2 HD
+http://178.32.251.80:8000/andrei/andrei/2141
+#EXTINF:-1,HBO 2 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1405
+#EXTINF:-1,HBO Plus FHD
+http://178.32.251.80:8000/andrei/andrei/1840
+#EXTINF:-1,HBO Plus HD
+http://178.32.251.80:8000/andrei/andrei/2146
+#EXTINF:-1,HBO Plus Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1318
+#EXTINF:-1,HBO Family FHD
+http://178.32.251.80:8000/andrei/andrei/1839
+#EXTINF:-1,HBO Family HD
+http://178.32.251.80:8000/andrei/andrei/2143
+#EXTINF:-1,HBO Family Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1317
+#EXTINF:-1,HBO Signature FHD
+http://178.32.251.80:8000/andrei/andrei/1841
+#EXTINF:-1,HBO Signature HD
+http://178.32.251.80:8000/andrei/andrei/2148
+#EXTINF:-1,HBO Signature Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1319
+#EXTINF:-1,MAX FHD
+http://178.32.251.80:8000/andrei/andrei/1845
+#EXTINF:-1,MAX HD
+http://178.32.251.80:8000/andrei/andrei/2158
+#EXTINF:-1,Max Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1477
+#EXTINF:-1,MAX Up FHD
+http://178.32.251.80:8000/andrei/andrei/1847
+#EXTINF:-1,Max UP HD
+http://178.32.251.80:8000/andrei/andrei/2162
+#EXTINF:-1,Max UP Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1478
+#EXTINF:-1,MAX Prime FHD
+http://178.32.251.80:8000/andrei/andrei/1846
+#EXTINF:-1,Max Prime HD
+http://178.32.251.80:8000/andrei/andrei/2160
+#EXTINF:-1,Max Prime Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1265
+#EXTINF:-1,AXN FHD
+http://178.32.251.80:8000/andrei/andrei/1810
+#EXTINF:-1,AXN HD
+http://178.32.251.80:8000/andrei/andrei/2054
+#EXTINF:-1,AXN Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1308
+#EXTINF:-1,AMC FHD
+http://178.32.251.80:8000/andrei/andrei/1807
+#EXTINF:-1,AMC HD
+http://178.32.251.80:8000/andrei/andrei/2048
+#EXTINF:-1,AMC Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1329
+#EXTINF:-1,Fox Life FHD
+http://178.32.251.80:8000/andrei/andrei/1831
+#EXTINF:-1,Fox Premium 1 FHD
+http://178.32.251.80:8000/andrei/andrei/1832
+#EXTINF:-1,Fox Premium 2 HD
+http://178.32.251.80:8000/andrei/andrei/2120
+#EXTINF:-1,Fox Premium 1 HD
+http://178.32.251.80:8000/andrei/andrei/2118
+#EXTINF:-1,Fox Premium 1 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1269
+#EXTINF:-1,Fox Premium 2 FHD
+http://178.32.251.80:8000/andrei/andrei/1833
+#EXTINF:-1,Fox Premium 2 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1270
+#EXTINF:-1,TNT FHD
+http://178.32.251.80:8000/andrei/andrei/1868
 #EXTINF:-1,TNT HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1433
-#EXTINF:-1,TNT HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/92
+http://178.32.251.80:8000/andrei/andrei/2242
+#EXTINF:-1,TNT Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1283
+#EXTINF:-1,TNT SÃ©ries FHD
+http://178.32.251.80:8000/andrei/andrei/1869
 #EXTINF:-1,TNT Series HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1432
-#EXTINF:-1,TNT Séries HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/90
-#EXTINF:-1,Todo Mundo Odeia o Chris (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2702
-#EXTINF:-1,Tom e Jerry (24H)
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4214
-#EXTINF:-1,TV Diario HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4473
-#EXTINF:-1,TV Diario HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/4472
-#EXTINF:-1,TV5 SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/69
-#EXTINF:-1,Universal Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1431
-#EXTINF:-1,Universal Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/67
-#EXTINF:-1,VH1 HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/65
-#EXTINF:-1,VH1 Mega Hits SD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/64
-#EXTINF:-1,Viva HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/2680
-#EXTINF:-1,Viva HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/10
+http://178.32.251.80:8000/andrei/andrei/2244
+#EXTINF:-1,TNT Series Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1305
+#EXTINF:-1,Cinemax FHD
+http://178.32.251.80:8000/andrei/andrei/1816
+#EXTINF:-1,Cinemax HD
+http://178.32.251.80:8000/andrei/andrei/2074
+#EXTINF:-1,TBS FHD
+http://178.32.251.80:8000/andrei/andrei/1865
+#EXTINF:-1,TBS HD
+http://178.32.251.80:8000/andrei/andrei/2224
+#EXTINF:-1,TBS Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1304
+#EXTINF:-1,Warner Channel FHD
+http://178.32.251.80:8000/andrei/andrei/1874
 #EXTINF:-1,Warner Channel HD
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/1430
-#EXTINF:-1,Warner Channel HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/61
-#EXTINF:-1,WooHoo HD+
-http://canais.servidor.tv:8080/cristiano2019/cristiano2019/59
+http://178.32.251.80:8000/andrei/andrei/2265
+#EXTINF:-1,Warner Channel Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1284
+#EXTINF:-1,Space FHD
+http://178.32.251.80:8000/andrei/andrei/1862
+#EXTINF:-1,Space HD
+http://178.32.251.80:8000/andrei/andrei/2217
+#EXTINF:-1,Space Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1287
+#EXTINF:-1,Paramount Channel FHD
+http://178.32.251.80:8000/andrei/andrei/1859
+#EXTINF:-1,Paramount Channel HD
+http://178.32.251.80:8000/andrei/andrei/2185
+#EXTINF:-1,Paramount Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1300
+#EXTINF:-1,Fox FHD
+http://178.32.251.80:8000/andrei/andrei/1885
+#EXTINF:-1,Fox HD
+http://178.32.251.80:8000/andrei/andrei/2114
+#EXTINF:-1,FOX Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1313
+#EXTINF:-1,FX FHD
+http://178.32.251.80:8000/andrei/andrei/1835
+#EXTINF:-1,FX HD
+http://178.32.251.80:8000/andrei/andrei/2128
+#EXTINF:-1,FX Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1315
+#EXTINF:-1,Sony Channel FHD
+http://178.32.251.80:8000/andrei/andrei/1814
+#EXTINF:-1,Sony Channel HD
+http://178.32.251.80:8000/andrei/andrei/2069
+#EXTINF:-1,Sony Channel Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1325
+#EXTINF:-1,Warner HD LEG
+http://178.32.251.80:8000/andrei/andrei/2367
+#EXTINF:-1,Warner LEG
+http://178.32.251.80:8000/andrei/andrei/2368
+#EXTINF:-1,TNT Series HD LEG
+http://178.32.251.80:8000/andrei/andrei/2365
+#EXTINF:-1,TNT Series LEG
+http://178.32.251.80:8000/andrei/andrei/2366
+#EXTINF:-1,TNT HD LEG
+http://178.32.251.80:8000/andrei/andrei/2355
+#EXTINF:-1,TNT LEG
+http://178.32.251.80:8000/andrei/andrei/2356
+#EXTINF:-1,Telecine Touch HD LEG
+http://178.32.251.80:8000/andrei/andrei/2353
+#EXTINF:-1,Telecine Touch LEG
+http://178.32.251.80:8000/andrei/andrei/2354
+#EXTINF:-1,Telecine Premium HD LEG
+http://178.32.251.80:8000/andrei/andrei/2351
+#EXTINF:-1,Telecine Premium LEG
+http://178.32.251.80:8000/andrei/andrei/2352
+#EXTINF:-1,Telecine Pipoca HD LEG
+http://178.32.251.80:8000/andrei/andrei/2349
+#EXTINF:-1,Telecine Pipoca LEG
+http://178.32.251.80:8000/andrei/andrei/2350
+#EXTINF:-1,Telecine Fun HD LEG
+http://178.32.251.80:8000/andrei/andrei/2347
+#EXTINF:-1,Telecine Fun LEG
+http://178.32.251.80:8000/andrei/andrei/2348
+#EXTINF:-1,Telecine Action HD LEG
+http://178.32.251.80:8000/andrei/andrei/2345
+#EXTINF:-1,TC Action LEG
+http://178.32.251.80:8000/andrei/andrei/2346
+#EXTINF:-1,Space HD LEG
+http://178.32.251.80:8000/andrei/andrei/2363
+#EXTINF:-1,Space LEG
+http://178.32.251.80:8000/andrei/andrei/2364
+#EXTINF:-1,Sony Channel HD LEG
+http://178.32.251.80:8000/andrei/andrei/2369
+#EXTINF:-1,Sony Channel LEG
+http://178.32.251.80:8000/andrei/andrei/2370
+#EXTINF:-1,Megapix HD LEG
+http://178.32.251.80:8000/andrei/andrei/2361
+#EXTINF:-1,Megapix LEG
+http://178.32.251.80:8000/andrei/andrei/2362
+#EXTINF:-1,Max UP HD LEG
+http://178.32.251.80:8000/andrei/andrei/2359
+#EXTINF:-1,Max UP LEG
+http://178.32.251.80:8000/andrei/andrei/2360
+#EXTINF:-1,Max Prime LEG
+http://178.32.251.80:8000/andrei/andrei/2343
+#EXTINF:-1,Max LEG
+http://178.32.251.80:8000/andrei/andrei/2344
+#EXTINF:-1,HBO Plus HD LEG
+http://178.32.251.80:8000/andrei/andrei/2341
+#EXTINF:-1,HBO Plus LEG
+http://178.32.251.80:8000/andrei/andrei/2342
+#EXTINF:-1,HBO HD LEG
+http://178.32.251.80:8000/andrei/andrei/2339
+#EXTINF:-1,HBO LEG
+http://178.32.251.80:8000/andrei/andrei/2340
+#EXTINF:-1,FX HD LEG
+http://178.32.251.80:8000/andrei/andrei/2357
+#EXTINF:-1,FX LEG
+http://178.32.251.80:8000/andrei/andrei/2358
+#EXTINF:-1,Fox HD LEG
+http://178.32.251.80:8000/andrei/andrei/2337
+#EXTINF:-1,Fox LEG
+http://178.32.251.80:8000/andrei/andrei/2338
+#EXTINF:-1,AXN HD LEG
+http://178.32.251.80:8000/andrei/andrei/2335
+#EXTINF:-1,AXN LEG
+http://178.32.251.80:8000/andrei/andrei/2336
+#EXTINF:-1,WooHoo H265
+http://178.32.251.80:8000/andrei/andrei/6615
+#EXTINF:-1,Warner Channel H265
+http://178.32.251.80:8000/andrei/andrei/6550
+#EXTINF:-1,Viva H265
+http://178.32.251.80:8000/andrei/andrei/6575
+#EXTINF:-1,Universal Channel H265
+http://178.32.251.80:8000/andrei/andrei/6574
+#EXTINF:-1,TNT Series H265
+http://178.32.251.80:8000/andrei/andrei/6573
+#EXTINF:-1,TNT H265
+http://178.32.251.80:8000/andrei/andrei/6556
+#EXTINF:-1,TLC H265
+http://178.32.251.80:8000/andrei/andrei/6614
+#EXTINF:-1,Telecine Touch H265
+http://178.32.251.80:8000/andrei/andrei/6572
+#EXTINF:-1,Telecine Premium H265
+http://178.32.251.80:8000/andrei/andrei/6555
+#EXTINF:-1,Telecine Pipoca H265
+http://178.32.251.80:8000/andrei/andrei/6554
+#EXTINF:-1,Telecine Fun H265
+http://178.32.251.80:8000/andrei/andrei/6604
+#EXTINF:-1,Telecine Action H265
+http://178.32.251.80:8000/andrei/andrei/6551
+#EXTINF:-1,TBS H265
+http://178.32.251.80:8000/andrei/andrei/6571
+#EXTINF:-1,SporTV H265
+http://178.32.251.80:8000/andrei/andrei/6570
+#EXTINF:-1,Sport TV 3 H265
+http://178.32.251.80:8000/andrei/andrei/6603
+#EXTINF:-1,Sport TV 2 H265
+http://178.32.251.80:8000/andrei/andrei/6602
+#EXTINF:-1,Space H265
+http://178.32.251.80:8000/andrei/andrei/6601
+#EXTINF:-1,SBT H265
+http://178.32.251.80:8000/andrei/andrei/6569
+#EXTINF:-1,Record H265
+http://178.32.251.80:8000/andrei/andrei/6610
+#EXTINF:-1,Premiere Clubes H265
+http://178.32.251.80:8000/andrei/andrei/6553
+#EXTINF:-1,Premiere 5 H265
+http://178.32.251.80:8000/andrei/andrei/6568
+#EXTINF:-1,Premiere 4 H265
+http://178.32.251.80:8000/andrei/andrei/6567
+#EXTINF:-1,Premiere 3 H265
+http://178.32.251.80:8000/andrei/andrei/6609
+#EXTINF:-1,Premiere 2 H265
+http://178.32.251.80:8000/andrei/andrei/6577
+#EXTINF:-1,Paramount Channel H265
+http://178.32.251.80:8000/andrei/andrei/6566
+#EXTINF:-1,OFF H265
+http://178.32.251.80:8000/andrei/andrei/6565
+#EXTINF:-1,Nickelodeon H265
+http://178.32.251.80:8000/andrei/andrei/6607
+#EXTINF:-1,Nick Jr H265
+http://178.32.251.80:8000/andrei/andrei/6608
+#EXTINF:-1,Nat Geo Wild H265
+http://178.32.251.80:8000/andrei/andrei/6606
+#EXTINF:-1,Nat Geo Kids H265
+http://178.32.251.80:8000/andrei/andrei/6605
+#EXTINF:-1,Nat Geo H265
+http://178.32.251.80:8000/andrei/andrei/6564
+#EXTINF:-1,Multishow H265
+http://178.32.251.80:8000/andrei/andrei/6563
+#EXTINF:-1,MegaPix H265
+http://178.32.251.80:8000/andrei/andrei/6562
+#EXTINF:-1,Investigacao Discovery H265
+http://178.32.251.80:8000/andrei/andrei/6561
+#EXTINF:-1,History H265
+http://178.32.251.80:8000/andrei/andrei/6548
+#EXTINF:-1,H2 H265
+http://178.32.251.80:8000/andrei/andrei/6560
+#EXTINF:-1,HBO Signature H265
+http://178.32.251.80:8000/andrei/andrei/6559
+#EXTINF:-1,HBO Plus H265
+http://178.32.251.80:8000/andrei/andrei/6599
+#EXTINF:-1,HBO H265
+http://178.32.251.80:8000/andrei/andrei/6547
+#EXTINF:-1,HBO Family H265
+http://178.32.251.80:8000/andrei/andrei/6558
+#EXTINF:-1,HBO 2 H265
+http://178.32.251.80:8000/andrei/andrei/6546
+#EXTINF:-1,GNT H265
+http://178.32.251.80:8000/andrei/andrei/6557
+#EXTINF:-1,Gloob H265
+http://178.32.251.80:8000/andrei/andrei/6598
+#EXTINF:-1,Globosat H265
+http://178.32.251.80:8000/andrei/andrei/6600
+#EXTINF:-1,Globo RJ H265
+http://178.32.251.80:8000/andrei/andrei/6549
+#EXTINF:-1,Fx H265
+http://178.32.251.80:8000/andrei/andrei/6597
+#EXTINF:-1,Fox Sports H265
+http://178.32.251.80:8000/andrei/andrei/6596
+#EXTINF:-1,Fox Sport 2 H265
+http://178.32.251.80:8000/andrei/andrei/6552
+#EXTINF:-1,Fox Premium 2 H265
+http://178.32.251.80:8000/andrei/andrei/6595
+#EXTINF:-1,Fox Premium 1 H265
+http://178.32.251.80:8000/andrei/andrei/6545
+#EXTINF:-1,Fox H265
+http://178.32.251.80:8000/andrei/andrei/6594
+#EXTINF:-1,Food Network H265
+http://178.32.251.80:8000/andrei/andrei/6593
+#EXTINF:-1,ESPN H265
+http://178.32.251.80:8000/andrei/andrei/6592
+#EXTINF:-1,ESPN Extra H265
+http://178.32.251.80:8000/andrei/andrei/6542
+#EXTINF:-1,ESPN Brasil H265
+http://178.32.251.80:8000/andrei/andrei/6541
+#EXTINF:-1,ESPN 2 H265
+http://178.32.251.80:8000/andrei/andrei/6576
+#EXTINF:-1,E! H265
+http://178.32.251.80:8000/andrei/andrei/6591
+#EXTINF:-1,Disney Jr H265
+http://178.32.251.80:8000/andrei/andrei/6590
+#EXTINF:-1,Disney Channel H265
+http://178.32.251.80:8000/andrei/andrei/6589
+#EXTINF:-1,Discovery World H265
+http://178.32.251.80:8000/andrei/andrei/6540
+#EXTINF:-1,Discovery Theater H265
+http://178.32.251.80:8000/andrei/andrei/6538
+#EXTINF:-1,Discovery Science H265
+http://178.32.251.80:8000/andrei/andrei/6588
+#EXTINF:-1,Discovery Kids H265
+http://178.32.251.80:8000/andrei/andrei/6587
+#EXTINF:-1,Discovery Home & Health H265
+http://178.32.251.80:8000/andrei/andrei/6544
+#EXTINF:-1,Discovery Civilization H265
+http://178.32.251.80:8000/andrei/andrei/6586
+#EXTINF:-1,Discovery Channel H265
+http://178.32.251.80:8000/andrei/andrei/6543
+#EXTINF:-1,Discovert Turbo H265
+http://178.32.251.80:8000/andrei/andrei/6539
+#EXTINF:-1,Combate H265
+http://178.32.251.80:8000/andrei/andrei/6585
+#EXTINF:-1,Cinemax H265
+http://178.32.251.80:8000/andrei/andrei/6584
+#EXTINF:-1,Cartoon Network H265
+http://178.32.251.80:8000/andrei/andrei/6583
+#EXTINF:-1,Canal Sony H265
+http://178.32.251.80:8000/andrei/andrei/6612
+#EXTINF:-1,Canal Brasil H265
+http://178.32.251.80:8000/andrei/andrei/6582
+#EXTINF:-1,Boomerang H265
+http://178.32.251.80:8000/andrei/andrei/6613
+#EXTINF:-1,BIS H265
+http://178.32.251.80:8000/andrei/andrei/6581
+#EXTINF:-1,Band Sports H265
+http://178.32.251.80:8000/andrei/andrei/6537
+#EXTINF:-1,Band News H265
+http://178.32.251.80:8000/andrei/andrei/6580
+#EXTINF:-1,AXN H265
+http://178.32.251.80:8000/andrei/andrei/6536
+#EXTINF:-1,Animal Planet H265
+http://178.32.251.80:8000/andrei/andrei/6535
+#EXTINF:-1,AMC H265
+http://178.32.251.80:8000/andrei/andrei/6579
+#EXTINF:-1,A&E H265
+http://178.32.251.80:8000/andrei/andrei/6578
+#EXTINF:-1,Universal Channel HD
+http://178.32.251.80:8000/andrei/andrei/2258
+#EXTINF:-1,Universal Channel FHD
+http://178.32.251.80:8000/andrei/andrei/1872
+#EXTINF:-1,Universal Channel Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1327
+#EXTINF:-1,Ação 24Hs
+http://178.32.251.80:8000/andrei/andrei/11622
+#EXTINF:-1,Comédia 24Hs
+http://178.32.251.80:8000/andrei/andrei/11625
+#EXTINF:-1,Drama 24Hs
+http://178.32.251.80:8000/andrei/andrei/11626
+#EXTINF:-1,Fantasia 24Hs
+http://178.32.251.80:8000/andrei/andrei/11627
+#EXTINF:-1,Ficção 24Hs
+http://178.32.251.80:8000/andrei/andrei/11628
+#EXTINF:-1,Faroeste 24Hs
+http://178.32.251.80:8000/andrei/andrei/11651
+#EXTINF:-1,Religiosos 24Hs
+http://178.32.251.80:8000/andrei/andrei/11679
+#EXTINF:-1,Animação 24Hs
+http://178.32.251.80:8000/andrei/andrei/11716
+#EXTINF:-1,DC Comics 24Hs
+http://178.32.251.80:8000/andrei/andrei/11717
+#EXTINF:-1,Suspense 24Hs
+http://178.32.251.80:8000/andrei/andrei/12313
+#EXTINF:-1,Terror 24Hs
+http://178.32.251.80:8000/andrei/andrei/12319
+#EXTINF:-1,Animal Planet FHD
+http://178.32.251.80:8000/andrei/andrei/1808
+#EXTINF:-1,Animal Planet HD
+http://178.32.251.80:8000/andrei/andrei/2050
+#EXTINF:-1,Animal Planet Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1288
+#EXTINF:-1,Discovery Channel FHD
+http://178.32.251.80:8000/andrei/andrei/1881
+#EXTINF:-1,Discovery Channel HD
+http://178.32.251.80:8000/andrei/andrei/2082
+#EXTINF:-1,Discovery Channel Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1328
+#EXTINF:-1,Discovery Turbo FHD
+http://178.32.251.80:8000/andrei/andrei/1824
+#EXTINF:-1,Discovery Turbo HD
+http://178.32.251.80:8000/andrei/andrei/2093
+#EXTINF:-1,Discovery Turbo Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1292
+#EXTINF:-1,Discovery Home&Health FHD
+http://178.32.251.80:8000/andrei/andrei/1820
+#EXTINF:-1,Discovery Home&Health HD
+http://178.32.251.80:8000/andrei/andrei/2086
+#EXTINF:-1,HGTV FHD
+http://178.32.251.80:8000/andrei/andrei/1819
+#EXTINF:-1,HGTV HD
+http://178.32.251.80:8000/andrei/andrei/2084
+#EXTINF:-1,Investigation Discovery FHD
+http://178.32.251.80:8000/andrei/andrei/1843
+#EXTINF:-1,Investigation Discovery HD
+http://178.32.251.80:8000/andrei/andrei/2152
+#EXTINF:-1,Investigation Discovery Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1320
+#EXTINF:-1,Discovery World FHD
+http://178.32.251.80:8000/andrei/andrei/1825
+#EXTINF:-1,Discovery World Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1309
+#EXTINF:-1,Discovery Theater FHD
+http://178.32.251.80:8000/andrei/andrei/1823
+#EXTINF:-1,Discovery Theater HD
+http://178.32.251.80:8000/andrei/andrei/2091
+#EXTINF:-1,Discovery Theater Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1286
+#EXTINF:-1,Discovery Science FHD
+http://178.32.251.80:8000/andrei/andrei/1822
+#EXTINF:-1,Discovery Science Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1335
+#EXTINF:-1,History FHD
+http://178.32.251.80:8000/andrei/andrei/1842
+#EXTINF:-1,History HD
+http://178.32.251.80:8000/andrei/andrei/2150
+#EXTINF:-1,History Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1272
+#EXTINF:-1,H2 FHD
+http://178.32.251.80:8000/andrei/andrei/1838
+#EXTINF:-1,H2 HD
+http://178.32.251.80:8000/andrei/andrei/2138
+#EXTINF:-1,H2 Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1316
+#EXTINF:-1,Nat Geo FHD
+http://178.32.251.80:8000/andrei/andrei/1853
+#EXTINF:-1,Nat Geo HD
+http://178.32.251.80:8000/andrei/andrei/2172
+#EXTINF:-1,Nat Geo Alternativo
+http://178.32.251.80:8000/andrei/andrei/1298
+#EXTINF:-1,Nat Geo Wild FHD
+http://178.32.251.80:8000/andrei/andrei/1855
+#EXTINF:-1,Nat Geo Wild HD
+http://178.32.251.80:8000/andrei/andrei/2175
+#EXTINF:-1,NatGeo Wild Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1299
+#EXTINF:-1,Smithsonian Channel FHD
+http://178.32.251.80:8000/andrei/andrei/1915
+#EXTINF:-1,Smithsonian Channel HD
+http://178.32.251.80:8000/andrei/andrei/2289
+#EXTINF:-1,Rede Vida FHD
+http://178.32.251.80:8000/andrei/andrei/1911
+#EXTINF:-1,Rede Vida HD
+http://178.32.251.80:8000/andrei/andrei/2273
+#EXTINF:-1,Rede Vida
+http://178.32.251.80:8000/andrei/andrei/2210
+#EXTINF:-1,Boa Vontade TV HD
+http://178.32.251.80:8000/andrei/andrei/2063
+#EXTINF:-1,Cartoon Network FHD
+http://178.32.251.80:8000/andrei/andrei/1815
+#EXTINF:-1,Cartoon Netowork HD
+http://178.32.251.80:8000/andrei/andrei/2072
+#EXTINF:-1,Cartoon Network Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1332
+#EXTINF:-1,Discovery Kids FHD
+http://178.32.251.80:8000/andrei/andrei/1821
+#EXTINF:-1,Discovery Kids HD
+http://178.32.251.80:8000/andrei/andrei/2088
+#EXTINF:-1,Discovery Kids Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1334
+#EXTINF:-1,Disney Channel FHD
+http://178.32.251.80:8000/andrei/andrei/1882
+#EXTINF:-1,Disney Channel HD
+http://178.32.251.80:8000/andrei/andrei/2096
+#EXTINF:-1,Disney Channel Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1336
+#EXTINF:-1,Disney Jr FHD
+http://178.32.251.80:8000/andrei/andrei/1876
+#EXTINF:-1,Disney Jr HD
+http://178.32.251.80:8000/andrei/andrei/2268
+#EXTINF:-1,Disney JR Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1337
+#EXTINF:-1,Disney XD FHD 
+http://178.32.251.80:8000/andrei/andrei/20621
+#EXTINF:-1,Disney XD HD
+http://178.32.251.80:8000/andrei/andrei/20622
+#EXTINF:-1,Boomerang  FHD
+http://178.32.251.80:8000/andrei/andrei/1813
+#EXTINF:-1,Boomerang HD
+http://178.32.251.80:8000/andrei/andrei/2065
+#EXTINF:-1,Boomerang Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1330
+#EXTINF:-1,Nickelodeon FHD
+http://178.32.251.80:8000/andrei/andrei/1857
+#EXTINF:-1,Nickelodeon HD
+http://178.32.251.80:8000/andrei/andrei/2181
+#EXTINF:-1,Nickelodeon Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1345
+#EXTINF:-1,Nick Jr FHD
+http://178.32.251.80:8000/andrei/andrei/1856
+#EXTINF:-1,Nick Jr HD
+http://178.32.251.80:8000/andrei/andrei/2179
+#EXTINF:-1,Nick JR Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1346
+#EXTINF:-1,Gloobinho FHD
+http://178.32.251.80:8000/andrei/andrei/1836
+#EXTINF:-1,Gloobinho HD
+http://178.32.251.80:8000/andrei/andrei/2133
+#EXTINF:-1,Gloob FHD
+http://178.32.251.80:8000/andrei/andrei/1889
+#EXTINF:-1,Gloob HD
+http://178.32.251.80:8000/andrei/andrei/2132
+#EXTINF:-1,Gloob Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1342
+#EXTINF:-1,Nat Geo Kids FHD
+http://178.32.251.80:8000/andrei/andrei/1854
+#EXTINF:-1,Nat Geo Kids HD
+http://178.32.251.80:8000/andrei/andrei/2174
+#EXTINF:-1,Nat Geo Kids Alternativo HD
+http://178.32.251.80:8000/andrei/andrei/1344
+#EXTINF:-1,TV Ra Tim Bum FHD
+http://178.32.251.80:8000/andrei/andrei/1871
+#EXTINF:-1,TV Ra Tim Bum HD
+http://178.32.251.80:8000/andrei/andrei/2254
+#EXTINF:-1,Tooncast HD 
+http://178.32.251.80:8000/andrei/andrei/20623
